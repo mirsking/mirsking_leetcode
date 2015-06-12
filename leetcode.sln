@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy13_roman_to_integer", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy58_length_of_last_word", "easy58_length_of_last_word\easy58_length_of_last_word.vcxproj", "{E1443719-9208-461B-97DC-BFD5E282735B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy217_contains_duplicate", "easy217_contains_duplicate\easy217_contains_duplicate.vcxproj", "{F2C3381B-EB49-4AFE-A3CB-98631939490A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -33,6 +35,10 @@ Global
 		{E1443719-9208-461B-97DC-BFD5E282735B}.Debug|Win32.Build.0 = Debug|Win32
 		{E1443719-9208-461B-97DC-BFD5E282735B}.Release|Win32.ActiveCfg = Release|Win32
 		{E1443719-9208-461B-97DC-BFD5E282735B}.Release|Win32.Build.0 = Release|Win32
+		{F2C3381B-EB49-4AFE-A3CB-98631939490A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F2C3381B-EB49-4AFE-A3CB-98631939490A}.Debug|Win32.Build.0 = Debug|Win32
+		{F2C3381B-EB49-4AFE-A3CB-98631939490A}.Release|Win32.ActiveCfg = Release|Win32
+		{F2C3381B-EB49-4AFE-A3CB-98631939490A}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
