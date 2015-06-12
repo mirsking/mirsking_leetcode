@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy217_contains_duplicate"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy206_reverse_link_list", "easy206_reverse_link_list\easy206_reverse_link_list.vcxproj", "{5045FAFB-F33A-4BF5-97D0-9D22D4268A3E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy205_isomorphic_strings", "easy205_isomorphic_strings\easy205_isomorphic_strings.vcxproj", "{1470925E-7D09-45C2-9000-BFFFD0913F89}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -45,6 +47,10 @@ Global
 		{5045FAFB-F33A-4BF5-97D0-9D22D4268A3E}.Debug|Win32.Build.0 = Debug|Win32
 		{5045FAFB-F33A-4BF5-97D0-9D22D4268A3E}.Release|Win32.ActiveCfg = Release|Win32
 		{5045FAFB-F33A-4BF5-97D0-9D22D4268A3E}.Release|Win32.Build.0 = Release|Win32
+		{1470925E-7D09-45C2-9000-BFFFD0913F89}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1470925E-7D09-45C2-9000-BFFFD0913F89}.Debug|Win32.Build.0 = Debug|Win32
+		{1470925E-7D09-45C2-9000-BFFFD0913F89}.Release|Win32.ActiveCfg = Release|Win32
+		{1470925E-7D09-45C2-9000-BFFFD0913F89}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
