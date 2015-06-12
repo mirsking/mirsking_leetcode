@@ -2,6 +2,7 @@
 #include <vector>
 using namespace std;
 
+/*
 class Solution {
 public:
     int countPrimes(int n) {
@@ -63,7 +64,39 @@ private:
 
 	vector<int> primers;
 };
+*/
 
+
+
+class Solution {
+public:
+	int countPrimes(int n) {
+
+		if (n < 2)
+			return 0;
+
+		vector<bool> primers(n, true);
+		primers[0] = primers[1] = false;
+
+		for (int i = 2; i <= sqrt(n); i++)
+		{
+			if (primers[i])
+			{
+				for (int j = 2; i*j < n; j++)
+					primers[i*j] = false;
+			}
+		}
+
+		int count = 0;
+		for (int i = 0; i < n; i++)
+		{
+			if (primers[i])
+				count++;
+		}
+
+		return count;
+	}
+};
 
 int main(int argc, char** argv)
 {
