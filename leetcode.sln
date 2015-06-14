@@ -27,6 +27,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy111_minimum_depth_of_bi
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy100_same_tree", "easy100_same_tree\easy100_same_tree.vcxproj", "{F438BE1C-7332-4769-B397-50B8624B0A61}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy101_symmetric_tree", "easy101_symmetric_tree\easy101_symmetric_tree.vcxproj", "{8EA3F038-C52F-44A9-9076-D27C81F09871}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -81,6 +83,10 @@ Global
 		{F438BE1C-7332-4769-B397-50B8624B0A61}.Debug|Win32.Build.0 = Debug|Win32
 		{F438BE1C-7332-4769-B397-50B8624B0A61}.Release|Win32.ActiveCfg = Release|Win32
 		{F438BE1C-7332-4769-B397-50B8624B0A61}.Release|Win32.Build.0 = Release|Win32
+		{8EA3F038-C52F-44A9-9076-D27C81F09871}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8EA3F038-C52F-44A9-9076-D27C81F09871}.Debug|Win32.Build.0 = Debug|Win32
+		{8EA3F038-C52F-44A9-9076-D27C81F09871}.Release|Win32.ActiveCfg = Release|Win32
+		{8EA3F038-C52F-44A9-9076-D27C81F09871}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
