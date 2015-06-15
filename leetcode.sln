@@ -29,6 +29,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy100_same_tree", "easy10
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy101_symmetric_tree", "easy101_symmetric_tree\easy101_symmetric_tree.vcxproj", "{8EA3F038-C52F-44A9-9076-D27C81F09871}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy112_path_sum", "easy112_path_sum\easy112_path_sum.vcxproj", "{D21A36FA-6411-42E0-BB6E-6480B8064BCD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy114_flatten_binary_tree_to_linked_list", "easy114_flatten_binary_tree_to_linked_list\easy114_flatten_binary_tree_to_linked_list.vcxproj", "{9345A588-EA70-4FAE-BE7A-46D2CCE5954B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -87,6 +91,14 @@ Global
 		{8EA3F038-C52F-44A9-9076-D27C81F09871}.Debug|Win32.Build.0 = Debug|Win32
 		{8EA3F038-C52F-44A9-9076-D27C81F09871}.Release|Win32.ActiveCfg = Release|Win32
 		{8EA3F038-C52F-44A9-9076-D27C81F09871}.Release|Win32.Build.0 = Release|Win32
+		{D21A36FA-6411-42E0-BB6E-6480B8064BCD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D21A36FA-6411-42E0-BB6E-6480B8064BCD}.Debug|Win32.Build.0 = Debug|Win32
+		{D21A36FA-6411-42E0-BB6E-6480B8064BCD}.Release|Win32.ActiveCfg = Release|Win32
+		{D21A36FA-6411-42E0-BB6E-6480B8064BCD}.Release|Win32.Build.0 = Release|Win32
+		{9345A588-EA70-4FAE-BE7A-46D2CCE5954B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9345A588-EA70-4FAE-BE7A-46D2CCE5954B}.Debug|Win32.Build.0 = Debug|Win32
+		{9345A588-EA70-4FAE-BE7A-46D2CCE5954B}.Release|Win32.ActiveCfg = Release|Win32
+		{9345A588-EA70-4FAE-BE7A-46D2CCE5954B}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
