@@ -14,6 +14,7 @@
     <ProjectGuid>{BB0E6867-CCDD-4CB7-B8C4-7245013B0FCC}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>easy129_sum_root_to_leaf_nums</RootNamespace>
+    <ProjectName>medium129_sum_root_to_leaf_nums</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -78,7 +79,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="easy129_sum_root_to_leaf_nums.cpp" />
+    <ClCompile Include="medium129_sum_root_to_leaf_nums.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

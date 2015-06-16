@@ -14,6 +14,7 @@
     <ProjectGuid>{9345A588-EA70-4FAE-BE7A-46D2CCE5954B}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>easy114_flatten_binary_tree_to_linked_list</RootNamespace>
+    <ProjectName>medium114_flatten_binary_tree_to_linked_list</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -78,7 +79,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="easy114_flatten_binary_tree_to_linked_list.cpp" />
+    <ClCompile Include="medium114_flatten_binary_tree_to_linked_list.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
