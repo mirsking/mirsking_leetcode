@@ -39,6 +39,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium108_convert_sorted_ar
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "meidum109_convert_sorted_list_to_binary_search_tree", "meidum109_convert_sorted_list_to_binary_search_tree\meidum109_convert_sorted_list_to_binary_search_tree.vcxproj", "{31831F26-C6C7-4502-BF03-4FE1EB80B3D4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium113_path_sum_ii", "medium113_path_sum_ii\medium113_path_sum_ii.vcxproj", "{4E3C646A-0FE4-4BED-ABCD-3AAD4281BB91}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -117,6 +119,10 @@ Global
 		{31831F26-C6C7-4502-BF03-4FE1EB80B3D4}.Debug|Win32.Build.0 = Debug|Win32
 		{31831F26-C6C7-4502-BF03-4FE1EB80B3D4}.Release|Win32.ActiveCfg = Release|Win32
 		{31831F26-C6C7-4502-BF03-4FE1EB80B3D4}.Release|Win32.Build.0 = Release|Win32
+		{4E3C646A-0FE4-4BED-ABCD-3AAD4281BB91}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4E3C646A-0FE4-4BED-ABCD-3AAD4281BB91}.Debug|Win32.Build.0 = Debug|Win32
+		{4E3C646A-0FE4-4BED-ABCD-3AAD4281BB91}.Release|Win32.ActiveCfg = Release|Win32
+		{4E3C646A-0FE4-4BED-ABCD-3AAD4281BB91}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
