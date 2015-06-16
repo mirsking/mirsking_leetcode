@@ -35,7 +35,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium114_flatten_binary_tr
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium129_sum_root_to_leaf_nums", "medium129_sum_root_to_leaf_nums\medium129_sum_root_to_leaf_nums.vcxproj", "{BB0E6867-CCDD-4CB7-B8C4-7245013B0FCC}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "media108_convert_sorted_array_to_binary_search_tree", "media108_convert_sorted_array_to_binary_search_tree\media108_convert_sorted_array_to_binary_search_tree.vcxproj", "{24E1FFE5-4A7E-48ED-AA2D-5237E045CC56}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium108_convert_sorted_array_to_binary_search_tree", "medium108_convert_sorted_array_to_binary_search_tree\medium108_convert_sorted_array_to_binary_search_tree.vcxproj", "{24E1FFE5-4A7E-48ED-AA2D-5237E045CC56}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
