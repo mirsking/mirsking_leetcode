@@ -45,6 +45,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy118_pascal_triangle", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy189_rotated_array", "easy189_rotated_array\easy189_rotated_array.vcxproj", "{5A2AE821-9760-4784-B06C-F7DBA205B770}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy27_remove_element", "easy27_remove_element\easy27_remove_element.vcxproj", "{8E4E0541-088C-47C2-9D1B-A2141804E314}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -135,6 +137,10 @@ Global
 		{5A2AE821-9760-4784-B06C-F7DBA205B770}.Debug|Win32.Build.0 = Debug|Win32
 		{5A2AE821-9760-4784-B06C-F7DBA205B770}.Release|Win32.ActiveCfg = Release|Win32
 		{5A2AE821-9760-4784-B06C-F7DBA205B770}.Release|Win32.Build.0 = Release|Win32
+		{8E4E0541-088C-47C2-9D1B-A2141804E314}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8E4E0541-088C-47C2-9D1B-A2141804E314}.Debug|Win32.Build.0 = Debug|Win32
+		{8E4E0541-088C-47C2-9D1B-A2141804E314}.Release|Win32.ActiveCfg = Release|Win32
+		{8E4E0541-088C-47C2-9D1B-A2141804E314}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
