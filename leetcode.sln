@@ -43,6 +43,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium113_path_sum_ii", "me
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy118_pascal_triangle", "easy118_pascal_triangle\easy118_pascal_triangle.vcxproj", "{51417563-9BBB-433B-8037-5886CCC1E6AF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy189_rotated_array", "easy189_rotated_array\easy189_rotated_array.vcxproj", "{5A2AE821-9760-4784-B06C-F7DBA205B770}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -129,6 +131,10 @@ Global
 		{51417563-9BBB-433B-8037-5886CCC1E6AF}.Debug|Win32.Build.0 = Debug|Win32
 		{51417563-9BBB-433B-8037-5886CCC1E6AF}.Release|Win32.ActiveCfg = Release|Win32
 		{51417563-9BBB-433B-8037-5886CCC1E6AF}.Release|Win32.Build.0 = Release|Win32
+		{5A2AE821-9760-4784-B06C-F7DBA205B770}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5A2AE821-9760-4784-B06C-F7DBA205B770}.Debug|Win32.Build.0 = Debug|Win32
+		{5A2AE821-9760-4784-B06C-F7DBA205B770}.Release|Win32.ActiveCfg = Release|Win32
+		{5A2AE821-9760-4784-B06C-F7DBA205B770}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
