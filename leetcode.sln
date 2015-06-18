@@ -49,6 +49,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy27_remove_element", "ea
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy96_uinque_binary_search_trees", "easy96_uinque_binary_search_trees\easy96_uinque_binary_search_trees.vcxproj", "{D41B85C3-3E4E-44CA-8DCB-4B2F8038ABA8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy53_maximum_subarray", "easy53_maximum_subarray\easy53_maximum_subarray.vcxproj", "{C9743BA6-0630-4745-9B5D-B82568ACF242}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy26_remove_duplicates_from_sorted_array", "easy26_remove_duplicates_from_sorted_array\easy26_remove_duplicates_from_sorted_array.vcxproj", "{6292FE5E-20EC-4048-90B9-17D0F8A184EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -147,6 +151,14 @@ Global
 		{D41B85C3-3E4E-44CA-8DCB-4B2F8038ABA8}.Debug|Win32.Build.0 = Debug|Win32
 		{D41B85C3-3E4E-44CA-8DCB-4B2F8038ABA8}.Release|Win32.ActiveCfg = Release|Win32
 		{D41B85C3-3E4E-44CA-8DCB-4B2F8038ABA8}.Release|Win32.Build.0 = Release|Win32
+		{C9743BA6-0630-4745-9B5D-B82568ACF242}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C9743BA6-0630-4745-9B5D-B82568ACF242}.Debug|Win32.Build.0 = Debug|Win32
+		{C9743BA6-0630-4745-9B5D-B82568ACF242}.Release|Win32.ActiveCfg = Release|Win32
+		{C9743BA6-0630-4745-9B5D-B82568ACF242}.Release|Win32.Build.0 = Release|Win32
+		{6292FE5E-20EC-4048-90B9-17D0F8A184EA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6292FE5E-20EC-4048-90B9-17D0F8A184EA}.Debug|Win32.Build.0 = Debug|Win32
+		{6292FE5E-20EC-4048-90B9-17D0F8A184EA}.Release|Win32.ActiveCfg = Release|Win32
+		{6292FE5E-20EC-4048-90B9-17D0F8A184EA}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
