@@ -55,6 +55,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy26_remove_duplicates_fr
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium69_sqrt_x", "medium69_sqrt_x\medium69_sqrt_x.vcxproj", "{FECDC24B-D159-4239-A2E3-186FC4C9E34E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy219_contains_duplicate_ii", "easy219_contains_duplicate_ii\easy219_contains_duplicate_ii.vcxproj", "{7EA20535-E36F-4799-8585-D5F162D1A11D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -165,6 +167,10 @@ Global
 		{FECDC24B-D159-4239-A2E3-186FC4C9E34E}.Debug|Win32.Build.0 = Debug|Win32
 		{FECDC24B-D159-4239-A2E3-186FC4C9E34E}.Release|Win32.ActiveCfg = Release|Win32
 		{FECDC24B-D159-4239-A2E3-186FC4C9E34E}.Release|Win32.Build.0 = Release|Win32
+		{7EA20535-E36F-4799-8585-D5F162D1A11D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7EA20535-E36F-4799-8585-D5F162D1A11D}.Debug|Win32.Build.0 = Debug|Win32
+		{7EA20535-E36F-4799-8585-D5F162D1A11D}.Release|Win32.ActiveCfg = Release|Win32
+		{7EA20535-E36F-4799-8585-D5F162D1A11D}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
