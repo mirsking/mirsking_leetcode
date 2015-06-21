@@ -63,6 +63,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy198_house_robber", "eas
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy202_happy_num", "easy202_happy_num\easy202_happy_num.vcxproj", "{ADE346B6-7894-4C85-BE89-39009283C24C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy203_remove_linked_list_elements", "easy203_remove_linked_list_elements\easy203_remove_linked_list_elements.vcxproj", "{D926A6C6-F595-4675-B8D9-D956A45BA480}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -189,6 +191,10 @@ Global
 		{ADE346B6-7894-4C85-BE89-39009283C24C}.Debug|Win32.Build.0 = Debug|Win32
 		{ADE346B6-7894-4C85-BE89-39009283C24C}.Release|Win32.ActiveCfg = Release|Win32
 		{ADE346B6-7894-4C85-BE89-39009283C24C}.Release|Win32.Build.0 = Release|Win32
+		{D926A6C6-F595-4675-B8D9-D956A45BA480}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D926A6C6-F595-4675-B8D9-D956A45BA480}.Debug|Win32.Build.0 = Debug|Win32
+		{D926A6C6-F595-4675-B8D9-D956A45BA480}.Release|Win32.ActiveCfg = Release|Win32
+		{D926A6C6-F595-4675-B8D9-D956A45BA480}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
