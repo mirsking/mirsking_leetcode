@@ -65,6 +65,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy202_happy_num", "easy20
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy203_remove_linked_list_elements", "easy203_remove_linked_list_elements\easy203_remove_linked_list_elements.vcxproj", "{D926A6C6-F595-4675-B8D9-D956A45BA480}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy226_invert_binary_tree", "easy226_invert_binary_tree\easy226_invert_binary_tree.vcxproj", "{39FE013A-B8CD-4DF9-B036-6D8043AFD007}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -195,6 +197,10 @@ Global
 		{D926A6C6-F595-4675-B8D9-D956A45BA480}.Debug|Win32.Build.0 = Debug|Win32
 		{D926A6C6-F595-4675-B8D9-D956A45BA480}.Release|Win32.ActiveCfg = Release|Win32
 		{D926A6C6-F595-4675-B8D9-D956A45BA480}.Release|Win32.Build.0 = Release|Win32
+		{39FE013A-B8CD-4DF9-B036-6D8043AFD007}.Debug|Win32.ActiveCfg = Debug|Win32
+		{39FE013A-B8CD-4DF9-B036-6D8043AFD007}.Debug|Win32.Build.0 = Debug|Win32
+		{39FE013A-B8CD-4DF9-B036-6D8043AFD007}.Release|Win32.ActiveCfg = Release|Win32
+		{39FE013A-B8CD-4DF9-B036-6D8043AFD007}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
