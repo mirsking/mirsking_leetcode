@@ -71,6 +71,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy191_numbers_of_1bits", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy190_reverse_bits", "easy190_reverse_bits\easy190_reverse_bits.vcxproj", "{632F8435-4CCC-4A48-BC50-E9A98FF40A98}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy155_min_stack", "easy155_min_stack\easy155_min_stack.vcxproj", "{5CB87060-AB00-4A8E-9A7D-3BDD5F9C21C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -213,6 +215,10 @@ Global
 		{632F8435-4CCC-4A48-BC50-E9A98FF40A98}.Debug|Win32.Build.0 = Debug|Win32
 		{632F8435-4CCC-4A48-BC50-E9A98FF40A98}.Release|Win32.ActiveCfg = Release|Win32
 		{632F8435-4CCC-4A48-BC50-E9A98FF40A98}.Release|Win32.Build.0 = Release|Win32
+		{5CB87060-AB00-4A8E-9A7D-3BDD5F9C21C7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5CB87060-AB00-4A8E-9A7D-3BDD5F9C21C7}.Debug|Win32.Build.0 = Debug|Win32
+		{5CB87060-AB00-4A8E-9A7D-3BDD5F9C21C7}.Release|Win32.ActiveCfg = Release|Win32
+		{5CB87060-AB00-4A8E-9A7D-3BDD5F9C21C7}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
