@@ -79,6 +79,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy67_add_binary", "easy67
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy88_merge_sorted_array", "easy88_merge_sorted_array\easy88_merge_sorted_array.vcxproj", "{BCEB81BF-ACC5-4BFB-95D6-672B83610CB2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium147_insertion_sort_list", "medium147_insertion_sort_list\medium147_insertion_sort_list.vcxproj", "{0A65E523-C376-4603-9E90-77A4365F203A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -237,6 +239,10 @@ Global
 		{BCEB81BF-ACC5-4BFB-95D6-672B83610CB2}.Debug|Win32.Build.0 = Debug|Win32
 		{BCEB81BF-ACC5-4BFB-95D6-672B83610CB2}.Release|Win32.ActiveCfg = Release|Win32
 		{BCEB81BF-ACC5-4BFB-95D6-672B83610CB2}.Release|Win32.Build.0 = Release|Win32
+		{0A65E523-C376-4603-9E90-77A4365F203A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0A65E523-C376-4603-9E90-77A4365F203A}.Debug|Win32.Build.0 = Debug|Win32
+		{0A65E523-C376-4603-9E90-77A4365F203A}.Release|Win32.ActiveCfg = Release|Win32
+		{0A65E523-C376-4603-9E90-77A4365F203A}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
