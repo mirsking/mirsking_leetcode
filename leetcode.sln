@@ -87,6 +87,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium106_construct_binary_
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy144_binary_tree_preorder_traversal", "easy144_binary_tree_preorder_traversal\easy144_binary_tree_preorder_traversal.vcxproj", "{46115AA2-D1EE-4BD7-AD21-0822B9FFF507}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium94_binary_inorder_traversal", "medium94_binary_inorder_traversal\medium94_binary_inorder_traversal.vcxproj", "{FBB4F159-1D52-4172-AD7C-71CBC72E0F00}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -261,6 +263,10 @@ Global
 		{46115AA2-D1EE-4BD7-AD21-0822B9FFF507}.Debug|Win32.Build.0 = Debug|Win32
 		{46115AA2-D1EE-4BD7-AD21-0822B9FFF507}.Release|Win32.ActiveCfg = Release|Win32
 		{46115AA2-D1EE-4BD7-AD21-0822B9FFF507}.Release|Win32.Build.0 = Release|Win32
+		{FBB4F159-1D52-4172-AD7C-71CBC72E0F00}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FBB4F159-1D52-4172-AD7C-71CBC72E0F00}.Debug|Win32.Build.0 = Debug|Win32
+		{FBB4F159-1D52-4172-AD7C-71CBC72E0F00}.Release|Win32.ActiveCfg = Release|Win32
+		{FBB4F159-1D52-4172-AD7C-71CBC72E0F00}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
