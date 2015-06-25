@@ -24,11 +24,10 @@ public:
 		//factorial(n);
 
 		int res = 0;
-		int div = 5;
-		while (n >= div)
+		while (n)
 		{
-			res += n / div;
-			div *= 5;
+			res += n / 5;
+			n /= 5;
 		}
 		return res;
 	}
