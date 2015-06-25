@@ -3,6 +3,7 @@ using namespace std;
 
 class Solution {
 public:
+	/*
     int trailingZeroes(int n) {
 		if (n == 0)
 			return 0;
@@ -18,11 +19,37 @@ public:
 		}
 		return res;
     }
+	*/
+	int trailingZeroes(int n) {
+		//factorial(n);
+
+		int res = 0;
+		int div = 5;
+		while (n >= div)
+		{
+			res += n / div;
+			div *= 5;
+		}
+		return res;
+	}
+
+private:
+	long long factorial(int n)
+	{
+		if (n == 0)
+			return 0;
+		long long tmp = 1;
+		int res = 0;
+		while (n != 1)
+			tmp *= (n--);
+		cout << tmp << endl;
+		return tmp;
+	}
 };
 
 int main()
 {
 	Solution sol;
-	cout << sol.trailingZeroes(10);
+	cout << sol.trailingZeroes(2147483647);
 	return 0;
 }
