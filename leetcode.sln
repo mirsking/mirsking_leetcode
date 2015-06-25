@@ -95,6 +95,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium105_construct_binary_
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy7_reverse_integer", "easy7_reverse_integer\easy7_reverse_integer.vcxproj", "{C9B4F6E9-B3A5-48F6-BE55-175165B92E23}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy172_factorial_trailling_zeros", "easy172_factorial_trailling_zeros\easy172_factorial_trailling_zeros.vcxproj", "{6C73D486-CD2D-41EE-8E80-06C0B5336ED0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -285,6 +287,10 @@ Global
 		{C9B4F6E9-B3A5-48F6-BE55-175165B92E23}.Debug|Win32.Build.0 = Debug|Win32
 		{C9B4F6E9-B3A5-48F6-BE55-175165B92E23}.Release|Win32.ActiveCfg = Release|Win32
 		{C9B4F6E9-B3A5-48F6-BE55-175165B92E23}.Release|Win32.Build.0 = Release|Win32
+		{6C73D486-CD2D-41EE-8E80-06C0B5336ED0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6C73D486-CD2D-41EE-8E80-06C0B5336ED0}.Debug|Win32.Build.0 = Debug|Win32
+		{6C73D486-CD2D-41EE-8E80-06C0B5336ED0}.Release|Win32.ActiveCfg = Release|Win32
+		{6C73D486-CD2D-41EE-8E80-06C0B5336ED0}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
