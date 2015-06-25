@@ -1,41 +1,26 @@
 #include <iostream>
 #include <string>
 #include <unordered_set>
-
+#include <vector>
 using namespace std;
 
 class Solution {
 public:
-    bool wordBreak(string s, unordered_set<string>& wordDict) {
-		if (wordDict.find(s) != wordDict.end())
-			return true;
-
-		for (int i = 1; i < s.size(); i++)
+	bool wordBreak(string s, unordered_set<string>& wordDict) {
+		vector<bool> dp(s.size() + 1, false);
+		dp[0] = true;
+		for (int i = 1; i <= s.size(); i++)
 		{
-			string tmp1(s, 0, i), tmp2(s,i,s.size()-i);
-			if (wordDict.find(tmp1) != wordDict.end()
-				&& wordBreak(tmp2, wordDict))
-				return true;
+			for (int j = i - 1; j >= 0; j--)
+			{
+				if (dp[j] && wordDict.find(s.substr(j, i - j)) != wordDict.end())
+				{
+					dp[i] = true;
+					break;
+				}
+			}
 		}
-		return false;
-    }
-
-private:
-	/* ÎÞÏÞ·Ö¸î*/
-	bool wordBreak(string s, int begin, int end, unordered_set<string>& wordDict)
-	{
-		if (end <= begin)
-			return false;
-		string tmp(s, begin, end-begin);
-		if (wordDict.find(tmp) != wordDict.end())
-			return true;
-		
-		for (int i = begin + 1; i < end; i++)
-		{
-			if (wordBreak(s, begin, i, wordDict) && wordBreak(s, i + 1, end, wordDict))
-				return true;
-		}
-		return false;
+		return dp[s.size()];
 	}
 };
 
