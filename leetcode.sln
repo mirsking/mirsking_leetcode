@@ -105,6 +105,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium11_container_with_mos
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium220_contains_duplicate_iii", "medium220_contains_duplicate_iii\medium220_contains_duplicate_iii.vcxproj", "{2254073E-5281-432F-9714-A0F837D5A439}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy223_rectangle_area", "easy223_rectangle_area\easy223_rectangle_area.vcxproj", "{ED09ADF9-5515-46DE-89E8-52E7B2456355}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -315,6 +317,10 @@ Global
 		{2254073E-5281-432F-9714-A0F837D5A439}.Debug|Win32.Build.0 = Debug|Win32
 		{2254073E-5281-432F-9714-A0F837D5A439}.Release|Win32.ActiveCfg = Release|Win32
 		{2254073E-5281-432F-9714-A0F837D5A439}.Release|Win32.Build.0 = Release|Win32
+		{ED09ADF9-5515-46DE-89E8-52E7B2456355}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ED09ADF9-5515-46DE-89E8-52E7B2456355}.Debug|Win32.Build.0 = Debug|Win32
+		{ED09ADF9-5515-46DE-89E8-52E7B2456355}.Release|Win32.ActiveCfg = Release|Win32
+		{ED09ADF9-5515-46DE-89E8-52E7B2456355}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
