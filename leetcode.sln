@@ -107,6 +107,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium220_contains_duplicat
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy223_rectangle_area", "easy223_rectangle_area\easy223_rectangle_area.vcxproj", "{ED09ADF9-5515-46DE-89E8-52E7B2456355}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium179_largest_number", "medium179_largest_number\medium179_largest_number.vcxproj", "{7B9BD4C5-0769-4E8B-A10C-1A398C5E76BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -321,6 +323,10 @@ Global
 		{ED09ADF9-5515-46DE-89E8-52E7B2456355}.Debug|Win32.Build.0 = Debug|Win32
 		{ED09ADF9-5515-46DE-89E8-52E7B2456355}.Release|Win32.ActiveCfg = Release|Win32
 		{ED09ADF9-5515-46DE-89E8-52E7B2456355}.Release|Win32.Build.0 = Release|Win32
+		{7B9BD4C5-0769-4E8B-A10C-1A398C5E76BE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7B9BD4C5-0769-4E8B-A10C-1A398C5E76BE}.Debug|Win32.Build.0 = Debug|Win32
+		{7B9BD4C5-0769-4E8B-A10C-1A398C5E76BE}.Release|Win32.ActiveCfg = Release|Win32
+		{7B9BD4C5-0769-4E8B-A10C-1A398C5E76BE}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
