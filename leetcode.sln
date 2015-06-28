@@ -115,6 +115,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy12_integeer_to_roman", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium153_find_min_in_rotated_sorted_array", "medium153_find_min_in_rotated_sorted_array\medium153_find_min_in_rotated_sorted_array.vcxproj", "{23E3B8D4-733F-4F4A-9E2C-5203CCFF05DE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium151_reverse_words_in_a_string", "medium151_reverse_words_in_a_string\medium151_reverse_words_in_a_string.vcxproj", "{92CF26C1-FF9C-40AD-AA10-84A647D8638F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -345,6 +347,10 @@ Global
 		{23E3B8D4-733F-4F4A-9E2C-5203CCFF05DE}.Debug|Win32.Build.0 = Debug|Win32
 		{23E3B8D4-733F-4F4A-9E2C-5203CCFF05DE}.Release|Win32.ActiveCfg = Release|Win32
 		{23E3B8D4-733F-4F4A-9E2C-5203CCFF05DE}.Release|Win32.Build.0 = Release|Win32
+		{92CF26C1-FF9C-40AD-AA10-84A647D8638F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{92CF26C1-FF9C-40AD-AA10-84A647D8638F}.Debug|Win32.Build.0 = Debug|Win32
+		{92CF26C1-FF9C-40AD-AA10-84A647D8638F}.Release|Win32.ActiveCfg = Release|Win32
+		{92CF26C1-FF9C-40AD-AA10-84A647D8638F}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
