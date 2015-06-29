@@ -119,6 +119,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium151_reverse_words_in_
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium136_single_number", "medium136_single_number\medium136_single_number.vcxproj", "{8DC61A4B-996E-4BFB-A3C1-23566D0F965B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium137_single_number_ii", "medium137_single_number_ii\medium137_single_number_ii.vcxproj", "{A968819C-462B-4BFB-8DC7-B7028DDC6ADD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -357,6 +359,10 @@ Global
 		{8DC61A4B-996E-4BFB-A3C1-23566D0F965B}.Debug|Win32.Build.0 = Debug|Win32
 		{8DC61A4B-996E-4BFB-A3C1-23566D0F965B}.Release|Win32.ActiveCfg = Release|Win32
 		{8DC61A4B-996E-4BFB-A3C1-23566D0F965B}.Release|Win32.Build.0 = Release|Win32
+		{A968819C-462B-4BFB-8DC7-B7028DDC6ADD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A968819C-462B-4BFB-8DC7-B7028DDC6ADD}.Debug|Win32.Build.0 = Debug|Win32
+		{A968819C-462B-4BFB-8DC7-B7028DDC6ADD}.Release|Win32.ActiveCfg = Release|Win32
+		{A968819C-462B-4BFB-8DC7-B7028DDC6ADD}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
