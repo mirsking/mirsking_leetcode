@@ -125,6 +125,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium107_binary_tree_level
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium141_linked_list_cycle", "medium141_linked_list_cycle\medium141_linked_list_cycle.vcxproj", "{EE64F3D4-9FE1-4A13-AB23-66AE93EAC823}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium142_linked_list_cycle_ii", "medium142_linked_list_cycle_ii\medium142_linked_list_cycle_ii.vcxproj", "{8289023F-015C-4D86-ACCB-4559C3D25921}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -375,6 +377,10 @@ Global
 		{EE64F3D4-9FE1-4A13-AB23-66AE93EAC823}.Debug|Win32.Build.0 = Debug|Win32
 		{EE64F3D4-9FE1-4A13-AB23-66AE93EAC823}.Release|Win32.ActiveCfg = Release|Win32
 		{EE64F3D4-9FE1-4A13-AB23-66AE93EAC823}.Release|Win32.Build.0 = Release|Win32
+		{8289023F-015C-4D86-ACCB-4559C3D25921}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8289023F-015C-4D86-ACCB-4559C3D25921}.Debug|Win32.Build.0 = Debug|Win32
+		{8289023F-015C-4D86-ACCB-4559C3D25921}.Release|Win32.ActiveCfg = Release|Win32
+		{8289023F-015C-4D86-ACCB-4559C3D25921}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
