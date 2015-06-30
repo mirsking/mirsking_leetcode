@@ -127,6 +127,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium141_linked_list_cycle
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium142_linked_list_cycle_ii", "medium142_linked_list_cycle_ii\medium142_linked_list_cycle_ii.vcxproj", "{8289023F-015C-4D86-ACCB-4559C3D25921}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium127_word_ladder", "medium127_word_ladder\medium127_word_ladder.vcxproj", "{93EFBDF4-3059-4115-A8C2-E39CC2FAB7D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -381,6 +383,10 @@ Global
 		{8289023F-015C-4D86-ACCB-4559C3D25921}.Debug|Win32.Build.0 = Debug|Win32
 		{8289023F-015C-4D86-ACCB-4559C3D25921}.Release|Win32.ActiveCfg = Release|Win32
 		{8289023F-015C-4D86-ACCB-4559C3D25921}.Release|Win32.Build.0 = Release|Win32
+		{93EFBDF4-3059-4115-A8C2-E39CC2FAB7D8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{93EFBDF4-3059-4115-A8C2-E39CC2FAB7D8}.Debug|Win32.Build.0 = Debug|Win32
+		{93EFBDF4-3059-4115-A8C2-E39CC2FAB7D8}.Release|Win32.ActiveCfg = Release|Win32
+		{93EFBDF4-3059-4115-A8C2-E39CC2FAB7D8}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
