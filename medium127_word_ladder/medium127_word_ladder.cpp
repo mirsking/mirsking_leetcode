@@ -11,7 +11,7 @@ public:
 		wordDict.erase(beginWord);
 		int count = 1;
 		int level = 1;
-		while (wordDict.size()>=0 && !ladder.empty())
+		while (!ladder.empty())
 		{
 			string curWord = ladder.front();
 			ladder.pop();
@@ -43,16 +43,16 @@ public:
 
 int main()
 {
-	//const int N = 5;
-	//string a[N] = {"hot","dot","dog","lot","log"};
-	const int N = 2;
-	string a[N] = { "hot", "dog" };
+	const int N = 5;
+	string a[N] = {"hot","dot","dog","lot","log"};
+	//const int N = 2;
+	//string a[N] = { "hot", "dog" };
 	unordered_set<string> dict;
 	for (int i = 0; i < N; i++)
 	{
 		dict.insert(a[i]);
 	}
 	Solution sol;
-	cout << sol.ladderLength("hot", "dog", dict);
+	cout << sol.ladderLength("hit", "cog", dict);
 	return 0;
 }
