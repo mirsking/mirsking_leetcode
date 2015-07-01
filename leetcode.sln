@@ -131,6 +131,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium127_word_ladder", "me
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy171_excel_sheet_column_number", "easy171_excel_sheet_column_number\easy171_excel_sheet_column_number.vcxproj", "{35FE5806-0583-4D98-87DF-37B09F29C284}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium24_swap_nodes_in_pairs", "medium24_swap_nodes_in_pairs\medium24_swap_nodes_in_pairs.vcxproj", "{67C37FD3-DA6B-40BE-AF75-20DD3D89756B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -393,6 +395,10 @@ Global
 		{35FE5806-0583-4D98-87DF-37B09F29C284}.Debug|Win32.Build.0 = Debug|Win32
 		{35FE5806-0583-4D98-87DF-37B09F29C284}.Release|Win32.ActiveCfg = Release|Win32
 		{35FE5806-0583-4D98-87DF-37B09F29C284}.Release|Win32.Build.0 = Release|Win32
+		{67C37FD3-DA6B-40BE-AF75-20DD3D89756B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{67C37FD3-DA6B-40BE-AF75-20DD3D89756B}.Debug|Win32.Build.0 = Debug|Win32
+		{67C37FD3-DA6B-40BE-AF75-20DD3D89756B}.Release|Win32.ActiveCfg = Release|Win32
+		{67C37FD3-DA6B-40BE-AF75-20DD3D89756B}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
