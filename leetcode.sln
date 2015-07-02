@@ -137,6 +137,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium162_find_peak_element
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium116_populating_next_right_pointers", "medium116_populating_next_right_pointers\medium116_populating_next_right_pointers.vcxproj", "{24F58249-A462-403B-A87D-2D4A0C477D7A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium17_letter_combinations_of_a_phone_number", "medium17_letter_combinations_of_a_phone_number\medium17_letter_combinations_of_a_phone_number.vcxproj", "{F7744BF8-BB9F-4BB9-B44E-7C269D293D92}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -411,6 +413,10 @@ Global
 		{24F58249-A462-403B-A87D-2D4A0C477D7A}.Debug|Win32.Build.0 = Debug|Win32
 		{24F58249-A462-403B-A87D-2D4A0C477D7A}.Release|Win32.ActiveCfg = Release|Win32
 		{24F58249-A462-403B-A87D-2D4A0C477D7A}.Release|Win32.Build.0 = Release|Win32
+		{F7744BF8-BB9F-4BB9-B44E-7C269D293D92}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F7744BF8-BB9F-4BB9-B44E-7C269D293D92}.Debug|Win32.Build.0 = Debug|Win32
+		{F7744BF8-BB9F-4BB9-B44E-7C269D293D92}.Release|Win32.ActiveCfg = Release|Win32
+		{F7744BF8-BB9F-4BB9-B44E-7C269D293D92}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
