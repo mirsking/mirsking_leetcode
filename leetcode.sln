@@ -135,6 +135,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium24_swap_nodes_in_pair
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium162_find_peak_elements", "medium162_find_peak_elements\medium162_find_peak_elements.vcxproj", "{EDBE732D-B233-4DBD-BC0B-D732FD86DD9C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium116_populating_next_right_pointers", "medium116_populating_next_right_pointers\medium116_populating_next_right_pointers.vcxproj", "{24F58249-A462-403B-A87D-2D4A0C477D7A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -405,6 +407,10 @@ Global
 		{EDBE732D-B233-4DBD-BC0B-D732FD86DD9C}.Debug|Win32.Build.0 = Debug|Win32
 		{EDBE732D-B233-4DBD-BC0B-D732FD86DD9C}.Release|Win32.ActiveCfg = Release|Win32
 		{EDBE732D-B233-4DBD-BC0B-D732FD86DD9C}.Release|Win32.Build.0 = Release|Win32
+		{24F58249-A462-403B-A87D-2D4A0C477D7A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{24F58249-A462-403B-A87D-2D4A0C477D7A}.Debug|Win32.Build.0 = Debug|Win32
+		{24F58249-A462-403B-A87D-2D4A0C477D7A}.Release|Win32.ActiveCfg = Release|Win32
+		{24F58249-A462-403B-A87D-2D4A0C477D7A}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
