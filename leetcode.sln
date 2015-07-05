@@ -141,6 +141,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium17_letter_combination
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy169_majority_elements", "easy169_majority_elements\easy169_majority_elements.vcxproj", "{E34EF5CB-674B-488A-B716-FE2A9EDA76DE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy168_excel_sheet_column_title", "easy168_excel_sheet_column_title\easy168_excel_sheet_column_title.vcxproj", "{D45DF0B7-978F-4AED-B8DE-7E1E91E84AAE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -423,6 +425,10 @@ Global
 		{E34EF5CB-674B-488A-B716-FE2A9EDA76DE}.Debug|Win32.Build.0 = Debug|Win32
 		{E34EF5CB-674B-488A-B716-FE2A9EDA76DE}.Release|Win32.ActiveCfg = Release|Win32
 		{E34EF5CB-674B-488A-B716-FE2A9EDA76DE}.Release|Win32.Build.0 = Release|Win32
+		{D45DF0B7-978F-4AED-B8DE-7E1E91E84AAE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D45DF0B7-978F-4AED-B8DE-7E1E91E84AAE}.Debug|Win32.Build.0 = Debug|Win32
+		{D45DF0B7-978F-4AED-B8DE-7E1E91E84AAE}.Release|Win32.ActiveCfg = Release|Win32
+		{D45DF0B7-978F-4AED-B8DE-7E1E91E84AAE}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
