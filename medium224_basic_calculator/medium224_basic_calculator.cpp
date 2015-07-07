@@ -6,92 +6,45 @@ using namespace std;
 
 class Solution {
 public:
-    int calculate(string s) {
-        vector<long> postfix = to_postfix(s);
-        int len = postfix.size();
-        if (len == 0) {
-            return 0;
-        }
-        vector<long> tmp;
-        long a, b;
-        for (int i=0; i<len; i++) {
-            long ch = postfix[i];
-            switch(ch) {
-                case '+':
-                    a = tmp.back();
-                    tmp.pop_back();
-                    tmp.back() = tmp.back() + a;
-                    break;
-                case '-':
-                    a = tmp.back();
-                    tmp.pop_back();
-                    tmp.back() = tmp.back() - a;
-                    break;
-                default:
-                    tmp.push_back(ch);
-            }
-        }
-        return tmp[0];
-    }
-    
-    vector<long> to_postfix(const string& s) {
-        int len = s.size();
-        // operators
-        vector<char> operato;
-        // generated postfix experssion of this infix experssion
-        vector<long> postfix;
-        
-        int val = 0;
-        bool innum = false;
-        
-        for (int i=0; i<len; i++) {
-            char ch = s[i];
-            switch (ch) {
-                case ' ':
-                    // skip space
-                    continue;
-                case '-':
-                case '+':
-                    while (!operato.empty() && operato.back() != '(') {
-                        postfix.push_back(operato.back());
-                        operato.pop_back();
-                    }
-                    operato.push_back(ch);
-                    break;
-                case '(':
-                    // just push to operato
-                    operato.push_back(ch);
-                    break;
-                case ')':
-                    // move any operato between this ')' and it's paired '('
-                    while (!operato.empty() && operato.back() != '(') {
-                        postfix.push_back(operato.back());
-                        operato.pop_back();
-                    }
-                    // destroy '(' placeholder
-                    operato.pop_back();
-                    break;
-                default:
-                    if (innum) {
-                        val = val * 10 + ch - '0';
-                    } else {
-                        val = ch - '0';
-                        innum = true;
-                    }
-                    // look ahead
-                    if (i+1 == len || s[i+1] > '9' || s[i+1] < '0') {
-                        postfix.push_back(val);
-                        innum = false;
-                    }
-            }
-        }
-        
-        while (!operato.empty()) {
-            postfix.push_back(operato.back());
-            operato.pop_back();
-        }
-        return postfix;
-    }
+	int calculate(string s) {
+		int res = 0;
+		vector<int> sign;
+		sign.push_back(1);
+
+		char last_op = '+';
+		for (int i = 0; i < s.size(); i++)
+		{
+			char ch = s[i];
+			switch (ch)
+			{
+			case ' ':
+				break;
+			case '+':
+			case '-':
+				last_op = ch;
+				break;
+			case '(':
+				//enter a new sign contex
+				sign.push_back(sign.back()*(last_op == '-' ? -1 : 1));
+				last_op = '+';
+				break;
+			case ')':
+				//exit a sign contex
+				sign.pop_back();
+				break;
+			default:
+				int num = 0;
+				while (i < s.size() && isdigit(s[i])){
+					num = num * 10 + s[i] - '0';
+					i++;
+				}
+				i--;
+				res += (last_op == '-' ? -1 : 1)*sign.back()*num;
+				break;
+			}
+		}
+		return res;
+	}
 };
 
 int main()
