@@ -147,6 +147,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium224_basic_calculator"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy231_power_of_two", "easy231_power_of_two\easy231_power_of_two.vcxproj", "{09F70A02-9118-416B-ABB4-8990BCBA997D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy38_count_and_say", "easy38_count_and_say\easy38_count_and_say.vcxproj", "{F7EC10FA-8397-48D7-82AB-637434CABEB9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -441,6 +443,10 @@ Global
 		{09F70A02-9118-416B-ABB4-8990BCBA997D}.Debug|Win32.Build.0 = Debug|Win32
 		{09F70A02-9118-416B-ABB4-8990BCBA997D}.Release|Win32.ActiveCfg = Release|Win32
 		{09F70A02-9118-416B-ABB4-8990BCBA997D}.Release|Win32.Build.0 = Release|Win32
+		{F7EC10FA-8397-48D7-82AB-637434CABEB9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F7EC10FA-8397-48D7-82AB-637434CABEB9}.Debug|Win32.Build.0 = Debug|Win32
+		{F7EC10FA-8397-48D7-82AB-637434CABEB9}.Release|Win32.ActiveCfg = Release|Win32
+		{F7EC10FA-8397-48D7-82AB-637434CABEB9}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
