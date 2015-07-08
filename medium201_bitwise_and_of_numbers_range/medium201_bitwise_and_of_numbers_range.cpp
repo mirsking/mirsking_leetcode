@@ -3,12 +3,14 @@ using namespace std;
 class Solution {
 public:
     int rangeBitwiseAnd(int m, int n) {
-		int res = m;
-		for (int i = m + 1; i <= n; i++ )
+		int offset = 0;
+		while (m != n)
 		{
-			res &= i;
+			m >>= 1;
+			n >>= 1;
+			offset++;
 		}
-		return res;
+		return m << offset;
     }
 };
 
