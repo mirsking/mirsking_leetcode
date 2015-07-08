@@ -153,6 +153,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium201_bitwise_and_of_nu
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium2_add_two_numbers", "medium2_add_two_numbers\medium2_add_two_numbers.vcxproj", "{F06989E9-B307-4D6A-B704-2A2B1D2B7F29}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium89_gray_code", "medium89_gray_code\medium89_gray_code.vcxproj", "{F46A3154-53FE-4AE1-BEBA-500A8CFCAF81}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -459,6 +461,10 @@ Global
 		{F06989E9-B307-4D6A-B704-2A2B1D2B7F29}.Debug|Win32.Build.0 = Debug|Win32
 		{F06989E9-B307-4D6A-B704-2A2B1D2B7F29}.Release|Win32.ActiveCfg = Release|Win32
 		{F06989E9-B307-4D6A-B704-2A2B1D2B7F29}.Release|Win32.Build.0 = Release|Win32
+		{F46A3154-53FE-4AE1-BEBA-500A8CFCAF81}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F46A3154-53FE-4AE1-BEBA-500A8CFCAF81}.Debug|Win32.Build.0 = Debug|Win32
+		{F46A3154-53FE-4AE1-BEBA-500A8CFCAF81}.Release|Win32.ActiveCfg = Release|Win32
+		{F46A3154-53FE-4AE1-BEBA-500A8CFCAF81}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
