@@ -149,6 +149,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy231_power_of_two", "eas
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy38_count_and_say", "easy38_count_and_say\easy38_count_and_say.vcxproj", "{F7EC10FA-8397-48D7-82AB-637434CABEB9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium201_bitwise_and_of_numbers_range", "medium201_bitwise_and_of_numbers_range\medium201_bitwise_and_of_numbers_range.vcxproj", "{A441DB01-8C18-4016-8AB6-C81B6C1B7A07}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -447,6 +449,10 @@ Global
 		{F7EC10FA-8397-48D7-82AB-637434CABEB9}.Debug|Win32.Build.0 = Debug|Win32
 		{F7EC10FA-8397-48D7-82AB-637434CABEB9}.Release|Win32.ActiveCfg = Release|Win32
 		{F7EC10FA-8397-48D7-82AB-637434CABEB9}.Release|Win32.Build.0 = Release|Win32
+		{A441DB01-8C18-4016-8AB6-C81B6C1B7A07}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A441DB01-8C18-4016-8AB6-C81B6C1B7A07}.Debug|Win32.Build.0 = Debug|Win32
+		{A441DB01-8C18-4016-8AB6-C81B6C1B7A07}.Release|Win32.ActiveCfg = Release|Win32
+		{A441DB01-8C18-4016-8AB6-C81B6C1B7A07}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
