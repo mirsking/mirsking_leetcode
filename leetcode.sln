@@ -159,6 +159,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy9_palindrome_number", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium35_search_insert_position", "medium35_search_insert_position\medium35_search_insert_position.vcxproj", "{FEA94AF5-74A2-400A-B6DD-E84BE336D0BF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium43_multiply_string", "medium43_multiply_string\medium43_multiply_string.vcxproj", "{FBA1B122-347F-411B-BBB3-4F225098F345}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -477,6 +479,10 @@ Global
 		{FEA94AF5-74A2-400A-B6DD-E84BE336D0BF}.Debug|Win32.Build.0 = Debug|Win32
 		{FEA94AF5-74A2-400A-B6DD-E84BE336D0BF}.Release|Win32.ActiveCfg = Release|Win32
 		{FEA94AF5-74A2-400A-B6DD-E84BE336D0BF}.Release|Win32.Build.0 = Release|Win32
+		{FBA1B122-347F-411B-BBB3-4F225098F345}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FBA1B122-347F-411B-BBB3-4F225098F345}.Debug|Win32.Build.0 = Debug|Win32
+		{FBA1B122-347F-411B-BBB3-4F225098F345}.Release|Win32.ActiveCfg = Release|Win32
+		{FBA1B122-347F-411B-BBB3-4F225098F345}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
