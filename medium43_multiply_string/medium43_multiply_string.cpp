@@ -38,12 +38,12 @@ public:
 
 				if (index < 0)
 				{
-					res.insert(res.begin(), tmp%10 + '0');
+					res.insert(res.begin(), tmp%10 + carry + '0');
 					carry = tmp / 10;
 				}
 				else
 				{
-					int tmp1 = res[index] - '0' + tmp;
+					int tmp1 = res[index] - '0' + tmp + carry;
 					res[index] = tmp1%10 + '0';
 					carry = tmp1 / 10;
 				}
@@ -68,6 +68,6 @@ public:
 int main()
 {
 	Solution sol;
-	cout << sol.multiply("-12", "12");
+	cout << sol.multiply("18", "12");
 	return 0;
 }
