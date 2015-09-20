@@ -23,8 +23,7 @@ public:
 			num2.erase(num2.begin());
 		}
 
-		for (int i = 0; i < num1.size(); i++)
-			res.push_back('0');
+		res.assign(num1.size(), '0');
 
 		int carry = 0;
 		for (int i = num2.size() - 1; i >= 0; i--)
@@ -38,7 +37,8 @@ public:
 
 				if (index < 0)
 				{
-					res.insert(res.begin(), tmp%10 + carry + '0');
+					tmp += carry;
+					res.insert(res.begin(), tmp%10 + '0');
 					carry = tmp / 10;
 				}
 				else
@@ -53,7 +53,10 @@ public:
 				if (carry >= 10)
 					cout << "carry error" << endl;
 				else
+				{
 					res.insert(res.begin(), carry + '0');
+					carry = 0;
+				}
 			}
 		}
 
@@ -68,6 +71,6 @@ public:
 int main()
 {
 	Solution sol;
-	cout << sol.multiply("18", "12");
+	cout << sol.multiply("9", "99");
 	return 0;
 }
