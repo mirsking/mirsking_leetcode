@@ -175,6 +175,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium227_basic_calculator"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium93_restore_ip_address", "medium93_restore_ip_address\medium93_restore_ip_address.vcxproj", "{F7FFCE9C-610F-467D-82AA-E5A124B679C3}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy20_valid_parentheses", "easy20_valid_parentheses\easy20_valid_parentheses.vcxproj", "{BFBF831F-4E33-4667-9E65-9E0302BE0AF7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		CD_ROM|Win32 = CD_ROM|Win32
@@ -1044,6 +1046,16 @@ Global
 		{F7FFCE9C-610F-467D-82AA-E5A124B679C3}.Release|Win32.Build.0 = Release|Win32
 		{F7FFCE9C-610F-467D-82AA-E5A124B679C3}.SingleImage|Win32.ActiveCfg = Release|Win32
 		{F7FFCE9C-610F-467D-82AA-E5A124B679C3}.SingleImage|Win32.Build.0 = Release|Win32
+		{BFBF831F-4E33-4667-9E65-9E0302BE0AF7}.CD_ROM|Win32.ActiveCfg = Release|Win32
+		{BFBF831F-4E33-4667-9E65-9E0302BE0AF7}.CD_ROM|Win32.Build.0 = Release|Win32
+		{BFBF831F-4E33-4667-9E65-9E0302BE0AF7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BFBF831F-4E33-4667-9E65-9E0302BE0AF7}.Debug|Win32.Build.0 = Debug|Win32
+		{BFBF831F-4E33-4667-9E65-9E0302BE0AF7}.DVD-5|Win32.ActiveCfg = Debug|Win32
+		{BFBF831F-4E33-4667-9E65-9E0302BE0AF7}.DVD-5|Win32.Build.0 = Debug|Win32
+		{BFBF831F-4E33-4667-9E65-9E0302BE0AF7}.Release|Win32.ActiveCfg = Release|Win32
+		{BFBF831F-4E33-4667-9E65-9E0302BE0AF7}.Release|Win32.Build.0 = Release|Win32
+		{BFBF831F-4E33-4667-9E65-9E0302BE0AF7}.SingleImage|Win32.ActiveCfg = Release|Win32
+		{BFBF831F-4E33-4667-9E65-9E0302BE0AF7}.SingleImage|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
