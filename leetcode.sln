@@ -169,6 +169,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium62_unique_paths", "me
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium22_generate_parentheses.cpp", "medium22_generate_parentheses.cpp\medium22_generate_parentheses.cpp.vcxproj", "{6C2B546F-1175-4FFF-A943-B993C7B16C33}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy165_compare_version_number", "easy165_compare_version_number\easy165_compare_version_number.vcxproj", "{D4E54071-EC22-49D4-9198-4C933878D230}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		CD_ROM|Win32 = CD_ROM|Win32
@@ -1008,6 +1010,16 @@ Global
 		{6C2B546F-1175-4FFF-A943-B993C7B16C33}.Release|Win32.Build.0 = Release|Win32
 		{6C2B546F-1175-4FFF-A943-B993C7B16C33}.SingleImage|Win32.ActiveCfg = Release|Win32
 		{6C2B546F-1175-4FFF-A943-B993C7B16C33}.SingleImage|Win32.Build.0 = Release|Win32
+		{D4E54071-EC22-49D4-9198-4C933878D230}.CD_ROM|Win32.ActiveCfg = Release|Win32
+		{D4E54071-EC22-49D4-9198-4C933878D230}.CD_ROM|Win32.Build.0 = Release|Win32
+		{D4E54071-EC22-49D4-9198-4C933878D230}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D4E54071-EC22-49D4-9198-4C933878D230}.Debug|Win32.Build.0 = Debug|Win32
+		{D4E54071-EC22-49D4-9198-4C933878D230}.DVD-5|Win32.ActiveCfg = Debug|Win32
+		{D4E54071-EC22-49D4-9198-4C933878D230}.DVD-5|Win32.Build.0 = Debug|Win32
+		{D4E54071-EC22-49D4-9198-4C933878D230}.Release|Win32.ActiveCfg = Release|Win32
+		{D4E54071-EC22-49D4-9198-4C933878D230}.Release|Win32.Build.0 = Release|Win32
+		{D4E54071-EC22-49D4-9198-4C933878D230}.SingleImage|Win32.ActiveCfg = Release|Win32
+		{D4E54071-EC22-49D4-9198-4C933878D230}.SingleImage|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
