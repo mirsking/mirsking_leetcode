@@ -181,6 +181,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy83_remove_duplicates_fr
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy70_climbing_stairs", "easy70_climbing_stairs\easy70_climbing_stairs.vcxproj", "{3BA2E6F8-DF2A-46D2-8368-4CE2326FA6EC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium48_rotate_image", "medium48_rotate_image\medium48_rotate_image.vcxproj", "{1047074A-6664-4066-A80C-89F9A17FC700}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		CD_ROM|Win32 = CD_ROM|Win32
@@ -1080,6 +1082,16 @@ Global
 		{3BA2E6F8-DF2A-46D2-8368-4CE2326FA6EC}.Release|Win32.Build.0 = Release|Win32
 		{3BA2E6F8-DF2A-46D2-8368-4CE2326FA6EC}.SingleImage|Win32.ActiveCfg = Release|Win32
 		{3BA2E6F8-DF2A-46D2-8368-4CE2326FA6EC}.SingleImage|Win32.Build.0 = Release|Win32
+		{1047074A-6664-4066-A80C-89F9A17FC700}.CD_ROM|Win32.ActiveCfg = Release|Win32
+		{1047074A-6664-4066-A80C-89F9A17FC700}.CD_ROM|Win32.Build.0 = Release|Win32
+		{1047074A-6664-4066-A80C-89F9A17FC700}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1047074A-6664-4066-A80C-89F9A17FC700}.Debug|Win32.Build.0 = Debug|Win32
+		{1047074A-6664-4066-A80C-89F9A17FC700}.DVD-5|Win32.ActiveCfg = Debug|Win32
+		{1047074A-6664-4066-A80C-89F9A17FC700}.DVD-5|Win32.Build.0 = Debug|Win32
+		{1047074A-6664-4066-A80C-89F9A17FC700}.Release|Win32.ActiveCfg = Release|Win32
+		{1047074A-6664-4066-A80C-89F9A17FC700}.Release|Win32.Build.0 = Release|Win32
+		{1047074A-6664-4066-A80C-89F9A17FC700}.SingleImage|Win32.ActiveCfg = Release|Win32
+		{1047074A-6664-4066-A80C-89F9A17FC700}.SingleImage|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
