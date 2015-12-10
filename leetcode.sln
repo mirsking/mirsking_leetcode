@@ -185,6 +185,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium48_rotate_image", "me
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium59_spiral_matrix_ii", "medium59_spiral_matrix_ii\medium59_spiral_matrix_ii.vcxproj", "{30F54D63-8468-48B3-B2F9-AE7A37FF7068}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium54_spiral_matrix", "medium54_spiral_matrix\medium54_spiral_matrix.vcxproj", "{E668818C-2899-49A0-977C-F7791DEBA8AC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		CD_ROM|Win32 = CD_ROM|Win32
@@ -1104,6 +1106,16 @@ Global
 		{30F54D63-8468-48B3-B2F9-AE7A37FF7068}.Release|Win32.Build.0 = Release|Win32
 		{30F54D63-8468-48B3-B2F9-AE7A37FF7068}.SingleImage|Win32.ActiveCfg = Release|Win32
 		{30F54D63-8468-48B3-B2F9-AE7A37FF7068}.SingleImage|Win32.Build.0 = Release|Win32
+		{E668818C-2899-49A0-977C-F7791DEBA8AC}.CD_ROM|Win32.ActiveCfg = Release|Win32
+		{E668818C-2899-49A0-977C-F7791DEBA8AC}.CD_ROM|Win32.Build.0 = Release|Win32
+		{E668818C-2899-49A0-977C-F7791DEBA8AC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E668818C-2899-49A0-977C-F7791DEBA8AC}.Debug|Win32.Build.0 = Debug|Win32
+		{E668818C-2899-49A0-977C-F7791DEBA8AC}.DVD-5|Win32.ActiveCfg = Debug|Win32
+		{E668818C-2899-49A0-977C-F7791DEBA8AC}.DVD-5|Win32.Build.0 = Debug|Win32
+		{E668818C-2899-49A0-977C-F7791DEBA8AC}.Release|Win32.ActiveCfg = Release|Win32
+		{E668818C-2899-49A0-977C-F7791DEBA8AC}.Release|Win32.Build.0 = Release|Win32
+		{E668818C-2899-49A0-977C-F7791DEBA8AC}.SingleImage|Win32.ActiveCfg = Release|Win32
+		{E668818C-2899-49A0-977C-F7791DEBA8AC}.SingleImage|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
