@@ -3,6 +3,14 @@ cmake_minimum_required(VERSION 2.8)
 
 add_definitions(-std=c++11)
 
+add_executable(medium39
+    medium39_combination_sum/main.cpp
+)
+
+add_executable(medium40
+    medium40_combination_sum_ii/main.cpp
+)
+
 add_executable(medium64
     medium64_minimum_path_num/main.cpp
 )
