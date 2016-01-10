@@ -3,12 +3,20 @@ cmake_minimum_required(VERSION 2.8)
 
 add_definitions(-std=c++11)
 
+add_executable(medium31
+    medium31_next_permutations/main.cpp
+)
+
 add_executable(medium39
     medium39_combination_sum/main.cpp
 )
 
 add_executable(medium40
     medium40_combination_sum_ii/main.cpp
+)
+
+add_executable(medium47
+    medium47_permutations/main.cpp
 )
 
 add_executable(medium64
