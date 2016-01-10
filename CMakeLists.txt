@@ -35,6 +35,10 @@ add_executable(medium77
     medium77_combinations/main.cpp
 )
 
+add_executable(medium216
+    medium216_combination_sum_iii/main.cpp
+)
+
 add_executable(medium230
     medium230_kth_smallest_element_in_BST/main.cpp
 )
