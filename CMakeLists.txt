@@ -1,8 +1,14 @@
 project(mirsking_leetcode)
 cmake_minimum_required(VERSION 2.8)
 
+add_definitions(-std=c++11)
+
 add_executable(medium64
     medium64_minimum_path_num/main.cpp
+)
+
+add_executable(medium73
+    medium73_set_matrix_zeroes/main.cpp
 )
 
 add_executable(medium74
