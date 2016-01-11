@@ -19,6 +19,10 @@ add_executable(medium47
     medium47_permutations/main.cpp
 )
 
+add_executable(medium50
+    medium50_pow/main.cpp
+)
+
 add_executable(medium64
     medium64_minimum_path_num/main.cpp
 )
