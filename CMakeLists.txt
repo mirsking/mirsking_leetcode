@@ -3,6 +3,10 @@ cmake_minimum_required(VERSION 2.8)
 
 add_definitions(-std=c++11)
 
+add_executable(medium16
+    medium16_3sum_closest/main.cpp
+)
+
 add_executable(medium18
     medium18_4sum/main.cpp
 )
