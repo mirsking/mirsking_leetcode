@@ -59,3 +59,6 @@ add_executable(medium230
     medium230_kth_smallest_element_in_BST/main.cpp
 )
 
+add_executable(medium260
+    medium260_single_number_iii/main.cpp
+)
