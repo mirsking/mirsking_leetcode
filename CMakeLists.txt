@@ -51,6 +51,10 @@ add_executable(medium77
     medium77_combinations/main.cpp
 )
 
+add_executable(medium78
+    medium78_subsets/main.cpp
+)
+
 add_executable(medium80
     medium80_remove_duplicates_from_sorted_array_ii/main.cpp
 )
