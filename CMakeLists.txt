@@ -19,6 +19,10 @@ add_executable(medium31
     medium31_next_permutations/main.cpp
 )
 
+#add_executable(hard33
+#    hard33_search_in_rotated_sorted_array/main.cpp
+#)
+
 add_executable(medium39
     medium39_combination_sum/main.cpp
 )
@@ -33,6 +37,10 @@ add_executable(medium47
 
 add_executable(medium50
     medium50_pow/main.cpp
+)
+
+add_executable(medium61
+    medium61_rotate_list/main.cpp
 )
 
 add_executable(medium64
