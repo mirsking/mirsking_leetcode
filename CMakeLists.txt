@@ -23,6 +23,10 @@ add_executable(medium31
 #    hard33_search_in_rotated_sorted_array/main.cpp
 #)
 
+add_executable(medium34
+    medium34_search_for_a_range/main.cpp
+)
+
 add_executable(medium39
     medium39_combination_sum/main.cpp
 )
