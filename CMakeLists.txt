@@ -87,6 +87,10 @@ add_executable(medium80
     medium80_remove_duplicates_from_sorted_array_ii/main.cpp
 )
 
+add_executable(medium82
+    medium82_remove_duplicates_from_sorted_list_ii/main.cpp
+)
+
 add_executable(medium216
     medium216_combination_sum_iii/main.cpp
 )
