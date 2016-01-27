@@ -51,6 +51,10 @@ add_executable(medium50
     medium50_pow/main.cpp
 )
 
+add_executable(medium60
+    medium60_permutation_sequence/main.cpp
+)
+
 add_executable(medium61
     medium61_rotate_list/main.cpp
 )
