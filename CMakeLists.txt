@@ -15,6 +15,10 @@ add_executable(medium18
     medium18_4sum/main.cpp
 )
 
+add_executable(medium29
+	medium29_divide_two_integers/main.cpp
+)
+
 add_executable(medium31
     medium31_next_permutations/main.cpp
 )
