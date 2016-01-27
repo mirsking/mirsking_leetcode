@@ -63,6 +63,10 @@ add_executable(medium64
     medium64_minimum_path_num/main.cpp
 )
 
+add_executable(medium71
+    medium71_simplify_path/main.cpp
+)
+
 add_executable(medium73
     medium73_set_matrix_zeroes/main.cpp
 )
