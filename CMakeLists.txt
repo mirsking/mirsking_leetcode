@@ -43,6 +43,10 @@ add_executable(medium47
     medium47_permutations/main.cpp
 )
 
+add_executable(medium49
+    medium49_group_anagrams/main.cpp
+)
+
 add_executable(medium50
     medium50_pow/main.cpp
 )
