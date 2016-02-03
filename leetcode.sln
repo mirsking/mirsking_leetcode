@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy66_plus_one", "easy66_plus_one\easy66_plus_one.vcxproj", "{8767244A-BF25-4EAE-BBE0-7EC5094F6275}"
 EndProject
@@ -192,6 +192,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium173_BST_iterator", "medium173_BST_iterator\medium173_BST_iterator.vcxproj", "{9DCB27B7-E52B-4302-B34A-542C9958C185}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy36_valid_sudoku", "easy36_valid_sudoku\easy36_valid_sudoku.vcxproj", "{79634933-F544-475B-948D-00D97B7B8D86}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium82_remove_duplicates_from_sorted_list_ii", "medium82_remove_duplicates_from_sorted_list_ii\medium82_remove_duplicates_from_sorted_list_ii.vcxproj", "{B4B74FBF-4246-409F-9053-7D25D35645EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1152,6 +1154,16 @@ Global
 		{79634933-F544-475B-948D-00D97B7B8D86}.Release|Win32.Build.0 = Release|Win32
 		{79634933-F544-475B-948D-00D97B7B8D86}.SingleImage|Win32.ActiveCfg = Release|Win32
 		{79634933-F544-475B-948D-00D97B7B8D86}.SingleImage|Win32.Build.0 = Release|Win32
+		{B4B74FBF-4246-409F-9053-7D25D35645EB}.CD_ROM|Win32.ActiveCfg = Release|Win32
+		{B4B74FBF-4246-409F-9053-7D25D35645EB}.CD_ROM|Win32.Build.0 = Release|Win32
+		{B4B74FBF-4246-409F-9053-7D25D35645EB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B4B74FBF-4246-409F-9053-7D25D35645EB}.Debug|Win32.Build.0 = Debug|Win32
+		{B4B74FBF-4246-409F-9053-7D25D35645EB}.DVD-5|Win32.ActiveCfg = Debug|Win32
+		{B4B74FBF-4246-409F-9053-7D25D35645EB}.DVD-5|Win32.Build.0 = Debug|Win32
+		{B4B74FBF-4246-409F-9053-7D25D35645EB}.Release|Win32.ActiveCfg = Release|Win32
+		{B4B74FBF-4246-409F-9053-7D25D35645EB}.Release|Win32.Build.0 = Release|Win32
+		{B4B74FBF-4246-409F-9053-7D25D35645EB}.SingleImage|Win32.ActiveCfg = Release|Win32
+		{B4B74FBF-4246-409F-9053-7D25D35645EB}.SingleImage|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
