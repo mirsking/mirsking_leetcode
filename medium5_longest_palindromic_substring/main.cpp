@@ -11,7 +11,7 @@ public:
 		for (int i = 0; i < N; i++)
 			dp[i][i] = true;
 
-		string str;
+		int start = 0; int max_len = 0;
 		for (int j = 0; j < N; j++)
 		{
 			for (int i = 0; i < j; i++)
@@ -20,13 +20,14 @@ public:
 					dp[i][j] = (s[j] == s[i]);
 				else//j > i+1
 					dp[i][j] = dp[i + 1][j - 1] && (s[j] == s[i]);
-				if (dp[i][j] && j-i+1 > str.size())
+				if (dp[i][j] && j-i+1 > max_len)
 				{
-					str = s.substr(i, j - i + 1);
+					max_len = j - i + 1;
+					start = i;
 				}
 			}
 		}
-		return str;
+		return s.substr(start, max_len);
 	}
 };
 
