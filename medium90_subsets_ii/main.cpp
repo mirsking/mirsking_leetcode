@@ -15,7 +15,7 @@ public:
 		//cout << "origin size:" << res.size() << endl;
 		sort(res.begin(), res.end());
 		auto end = unique(res.begin(), res.end());
-		/cout << "unique size:" << end-res.begin() << endl;
+		//cout << "unique size:" << end-res.begin() << endl;
 		res.resize(end - res.begin());
 		return res;
     }
