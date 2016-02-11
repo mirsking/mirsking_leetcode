@@ -11,9 +11,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{104CC141-E299-480A-A2F9-A6BF93A0BA4D}</ProjectGuid>
+    <ProjectGuid>{9BF67F61-1263-4235-99FC-48F7F6E2C5A9}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>medium122_best_time_stock</RootNamespace>
+    <RootNamespace>easy125_valid_palindrome</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
