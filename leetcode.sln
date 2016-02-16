@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.40629.0
+VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy66_plus_one", "easy66_plus_one\easy66_plus_one.vcxproj", "{8767244A-BF25-4EAE-BBE0-7EC5094F6275}"
 EndProject
@@ -262,6 +262,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium200_number_of_islands", "medium200_number_of_islands\medium200_number_of_islands.vcxproj", "{2CF74972-AB0F-4C2A-A2F1-CEDE91FD6AC3}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium207_course_schedule", "medium207_course_schedule\medium207_course_schedule.vcxproj", "{A4AEC142-3D74-4297-90A7-589C54D736B5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium208_implement_trie_(prefix_tree)", "medium208_implement_trie_(prefix_tree)\medium208_implement_trie_(prefix_tree).vcxproj", "{09BA85A2-AF54-42A5-ADAD-ECC8CA229085}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1572,6 +1574,16 @@ Global
 		{A4AEC142-3D74-4297-90A7-589C54D736B5}.Release|Win32.Build.0 = Release|Win32
 		{A4AEC142-3D74-4297-90A7-589C54D736B5}.SingleImage|Win32.ActiveCfg = Release|Win32
 		{A4AEC142-3D74-4297-90A7-589C54D736B5}.SingleImage|Win32.Build.0 = Release|Win32
+		{09BA85A2-AF54-42A5-ADAD-ECC8CA229085}.CD_ROM|Win32.ActiveCfg = Release|Win32
+		{09BA85A2-AF54-42A5-ADAD-ECC8CA229085}.CD_ROM|Win32.Build.0 = Release|Win32
+		{09BA85A2-AF54-42A5-ADAD-ECC8CA229085}.Debug|Win32.ActiveCfg = Debug|Win32
+		{09BA85A2-AF54-42A5-ADAD-ECC8CA229085}.Debug|Win32.Build.0 = Debug|Win32
+		{09BA85A2-AF54-42A5-ADAD-ECC8CA229085}.DVD-5|Win32.ActiveCfg = Debug|Win32
+		{09BA85A2-AF54-42A5-ADAD-ECC8CA229085}.DVD-5|Win32.Build.0 = Debug|Win32
+		{09BA85A2-AF54-42A5-ADAD-ECC8CA229085}.Release|Win32.ActiveCfg = Release|Win32
+		{09BA85A2-AF54-42A5-ADAD-ECC8CA229085}.Release|Win32.Build.0 = Release|Win32
+		{09BA85A2-AF54-42A5-ADAD-ECC8CA229085}.SingleImage|Win32.ActiveCfg = Release|Win32
+		{09BA85A2-AF54-42A5-ADAD-ECC8CA229085}.SingleImage|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
