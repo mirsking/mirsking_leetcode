@@ -281,6 +281,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium222_count_complete_bi
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy225_implement_stack_using_queues", "easy225_implement_stack_using_queues\easy225_implement_stack_using_queues.vcxproj", "{05BAFA3C-E064-410D-9755-9A742C8B2630}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy232_implement_queue_using_stacks", "easy232_implement_queue_using_stacks\easy232_implement_queue_using_stacks.vcxproj", "{6EA335F1-6937-4FBD-AE6D-AE7846A3235C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		CD_ROM|Win32 = CD_ROM|Win32
@@ -1680,6 +1682,16 @@ Global
 		{05BAFA3C-E064-410D-9755-9A742C8B2630}.Release|Win32.Build.0 = Release|Win32
 		{05BAFA3C-E064-410D-9755-9A742C8B2630}.SingleImage|Win32.ActiveCfg = Release|Win32
 		{05BAFA3C-E064-410D-9755-9A742C8B2630}.SingleImage|Win32.Build.0 = Release|Win32
+		{6EA335F1-6937-4FBD-AE6D-AE7846A3235C}.CD_ROM|Win32.ActiveCfg = Release|Win32
+		{6EA335F1-6937-4FBD-AE6D-AE7846A3235C}.CD_ROM|Win32.Build.0 = Release|Win32
+		{6EA335F1-6937-4FBD-AE6D-AE7846A3235C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6EA335F1-6937-4FBD-AE6D-AE7846A3235C}.Debug|Win32.Build.0 = Debug|Win32
+		{6EA335F1-6937-4FBD-AE6D-AE7846A3235C}.DVD-5|Win32.ActiveCfg = Debug|Win32
+		{6EA335F1-6937-4FBD-AE6D-AE7846A3235C}.DVD-5|Win32.Build.0 = Debug|Win32
+		{6EA335F1-6937-4FBD-AE6D-AE7846A3235C}.Release|Win32.ActiveCfg = Release|Win32
+		{6EA335F1-6937-4FBD-AE6D-AE7846A3235C}.Release|Win32.Build.0 = Release|Win32
+		{6EA335F1-6937-4FBD-AE6D-AE7846A3235C}.SingleImage|Win32.ActiveCfg = Release|Win32
+		{6EA335F1-6937-4FBD-AE6D-AE7846A3235C}.SingleImage|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
