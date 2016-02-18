@@ -287,6 +287,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy235_lowest_common_ances
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium238_product_of_array_except_self", "medium238_product_of_array_except_self\medium238_product_of_array_except_self.vcxproj", "{CDC844D7-6081-47A0-80D9-22C9DFA08E6E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium240_search_2D_matrix_ii", "medium240_search_2D_matrix_ii\medium240_search_2D_matrix_ii.vcxproj", "{D1244888-BAF1-4652-A8F4-FCF669C2942E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		CD_ROM|Win32 = CD_ROM|Win32
@@ -1716,6 +1718,16 @@ Global
 		{CDC844D7-6081-47A0-80D9-22C9DFA08E6E}.Release|Win32.Build.0 = Release|Win32
 		{CDC844D7-6081-47A0-80D9-22C9DFA08E6E}.SingleImage|Win32.ActiveCfg = Release|Win32
 		{CDC844D7-6081-47A0-80D9-22C9DFA08E6E}.SingleImage|Win32.Build.0 = Release|Win32
+		{D1244888-BAF1-4652-A8F4-FCF669C2942E}.CD_ROM|Win32.ActiveCfg = Release|Win32
+		{D1244888-BAF1-4652-A8F4-FCF669C2942E}.CD_ROM|Win32.Build.0 = Release|Win32
+		{D1244888-BAF1-4652-A8F4-FCF669C2942E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D1244888-BAF1-4652-A8F4-FCF669C2942E}.Debug|Win32.Build.0 = Debug|Win32
+		{D1244888-BAF1-4652-A8F4-FCF669C2942E}.DVD-5|Win32.ActiveCfg = Debug|Win32
+		{D1244888-BAF1-4652-A8F4-FCF669C2942E}.DVD-5|Win32.Build.0 = Debug|Win32
+		{D1244888-BAF1-4652-A8F4-FCF669C2942E}.Release|Win32.ActiveCfg = Release|Win32
+		{D1244888-BAF1-4652-A8F4-FCF669C2942E}.Release|Win32.Build.0 = Release|Win32
+		{D1244888-BAF1-4652-A8F4-FCF669C2942E}.SingleImage|Win32.ActiveCfg = Release|Win32
+		{D1244888-BAF1-4652-A8F4-FCF669C2942E}.SingleImage|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
