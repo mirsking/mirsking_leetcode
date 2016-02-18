@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.40629.0
+VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy66_plus_one", "easy66_plus_one\easy66_plus_one.vcxproj", "{8767244A-BF25-4EAE-BBE0-7EC5094F6275}"
 EndProject
@@ -276,6 +276,10 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium215_kth_largest_element_in_array", "medium215_kth_largest_element_in_array\medium215_kth_largest_element_in_array.vcxproj", "{147D681F-9901-4416-B95E-DF0D3564CF78}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium221_maximal_square", "medium221_maximal_square\medium221_maximal_square.vcxproj", "{62881CC8-94E3-4E33-8DF4-896A99E980E6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium229_majority_element_ii", "medium229_majority_element_ii\medium229_majority_element_ii.vcxproj", "{005F77D5-1D5F-4A60-92F9-A769B226986F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium233_number_of_digits", "medium233_number_of_digits\medium233_number_of_digits.vcxproj", "{C83B4877-A70F-42BC-BC6A-F47E17510F61}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1656,6 +1660,26 @@ Global
 		{62881CC8-94E3-4E33-8DF4-896A99E980E6}.Release|Win32.Build.0 = Release|Win32
 		{62881CC8-94E3-4E33-8DF4-896A99E980E6}.SingleImage|Win32.ActiveCfg = Release|Win32
 		{62881CC8-94E3-4E33-8DF4-896A99E980E6}.SingleImage|Win32.Build.0 = Release|Win32
+		{005F77D5-1D5F-4A60-92F9-A769B226986F}.CD_ROM|Win32.ActiveCfg = Release|Win32
+		{005F77D5-1D5F-4A60-92F9-A769B226986F}.CD_ROM|Win32.Build.0 = Release|Win32
+		{005F77D5-1D5F-4A60-92F9-A769B226986F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{005F77D5-1D5F-4A60-92F9-A769B226986F}.Debug|Win32.Build.0 = Debug|Win32
+		{005F77D5-1D5F-4A60-92F9-A769B226986F}.DVD-5|Win32.ActiveCfg = Debug|Win32
+		{005F77D5-1D5F-4A60-92F9-A769B226986F}.DVD-5|Win32.Build.0 = Debug|Win32
+		{005F77D5-1D5F-4A60-92F9-A769B226986F}.Release|Win32.ActiveCfg = Release|Win32
+		{005F77D5-1D5F-4A60-92F9-A769B226986F}.Release|Win32.Build.0 = Release|Win32
+		{005F77D5-1D5F-4A60-92F9-A769B226986F}.SingleImage|Win32.ActiveCfg = Release|Win32
+		{005F77D5-1D5F-4A60-92F9-A769B226986F}.SingleImage|Win32.Build.0 = Release|Win32
+		{C83B4877-A70F-42BC-BC6A-F47E17510F61}.CD_ROM|Win32.ActiveCfg = Release|Win32
+		{C83B4877-A70F-42BC-BC6A-F47E17510F61}.CD_ROM|Win32.Build.0 = Release|Win32
+		{C83B4877-A70F-42BC-BC6A-F47E17510F61}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C83B4877-A70F-42BC-BC6A-F47E17510F61}.Debug|Win32.Build.0 = Debug|Win32
+		{C83B4877-A70F-42BC-BC6A-F47E17510F61}.DVD-5|Win32.ActiveCfg = Debug|Win32
+		{C83B4877-A70F-42BC-BC6A-F47E17510F61}.DVD-5|Win32.Build.0 = Debug|Win32
+		{C83B4877-A70F-42BC-BC6A-F47E17510F61}.Release|Win32.ActiveCfg = Release|Win32
+		{C83B4877-A70F-42BC-BC6A-F47E17510F61}.Release|Win32.Build.0 = Release|Win32
+		{C83B4877-A70F-42BC-BC6A-F47E17510F61}.SingleImage|Win32.ActiveCfg = Release|Win32
+		{C83B4877-A70F-42BC-BC6A-F47E17510F61}.SingleImage|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
