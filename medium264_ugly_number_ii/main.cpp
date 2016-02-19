@@ -1,34 +1,32 @@
 #include <iostream>
 #include <vector>
+#include <algorithm>
 using namespace std;
 
 class Solution {
 public:
-    int nthUglyNumber(int n) {
-		int i = 0;
-		int num = 0;
-		while (i < n)
+	int nthUglyNumber(int n) {
+		vector<int> ugly_numbers(n);
+		ugly_numbers[0] = 1;
+		int idx2 = 0, idx3 = 0, idx5 = 0;
+		int count = 1;
+		while (count < n)
 		{
-			num++;
-			if (isUglyNumber(num))
-				i++;
+			int next_ugly = min(
+				ugly_numbers[idx2] * 2,
+				min(ugly_numbers[idx3] * 3,
+				ugly_numbers[idx5] * 5)
+				);
+			if (next_ugly == ugly_numbers[idx2] * 2)
+				idx2++;
+			if (next_ugly == ugly_numbers[idx3] * 3)
+				idx3++;
+			if (next_ugly == ugly_numbers[idx5] * 5)
+				idx5++;
+			ugly_numbers[count] = next_ugly;
+			count++;
 		}
-		return num;
-    }
-private:
-	bool isUglyNumber(int m)
-	{
-		if (m <= 0)
-			return false;
-		divide2End(m, 2);
-		divide2End(m, 3);
-		divide2End(m, 5);
-		return m == 1;
-	}
-	inline void divide2End(int& a, int b)
-	{
-		while (a%b == 0)
-			a /= b;
+		return ugly_numbers[n - 1];
 	}
 };
 
