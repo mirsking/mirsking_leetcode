@@ -299,6 +299,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy263_ugly_number", "easy
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium264_ugly_number_ii", "medium264_ugly_number_ii\medium264_ugly_number_ii.vcxproj", "{5C2C0DF8-8E79-4EFB-ACF8-0CF412CC8FC0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium268_missing_number", "medium268_missing_number\medium268_missing_number.vcxproj", "{E0480203-AE2A-43F8-BB01-78449CE750D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		CD_ROM|Win32 = CD_ROM|Win32
@@ -1788,6 +1790,16 @@ Global
 		{5C2C0DF8-8E79-4EFB-ACF8-0CF412CC8FC0}.Release|Win32.Build.0 = Release|Win32
 		{5C2C0DF8-8E79-4EFB-ACF8-0CF412CC8FC0}.SingleImage|Win32.ActiveCfg = Release|Win32
 		{5C2C0DF8-8E79-4EFB-ACF8-0CF412CC8FC0}.SingleImage|Win32.Build.0 = Release|Win32
+		{E0480203-AE2A-43F8-BB01-78449CE750D3}.CD_ROM|Win32.ActiveCfg = Release|Win32
+		{E0480203-AE2A-43F8-BB01-78449CE750D3}.CD_ROM|Win32.Build.0 = Release|Win32
+		{E0480203-AE2A-43F8-BB01-78449CE750D3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E0480203-AE2A-43F8-BB01-78449CE750D3}.Debug|Win32.Build.0 = Debug|Win32
+		{E0480203-AE2A-43F8-BB01-78449CE750D3}.DVD-5|Win32.ActiveCfg = Debug|Win32
+		{E0480203-AE2A-43F8-BB01-78449CE750D3}.DVD-5|Win32.Build.0 = Debug|Win32
+		{E0480203-AE2A-43F8-BB01-78449CE750D3}.Release|Win32.ActiveCfg = Release|Win32
+		{E0480203-AE2A-43F8-BB01-78449CE750D3}.Release|Win32.Build.0 = Release|Win32
+		{E0480203-AE2A-43F8-BB01-78449CE750D3}.SingleImage|Win32.ActiveCfg = Release|Win32
+		{E0480203-AE2A-43F8-BB01-78449CE750D3}.SingleImage|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
