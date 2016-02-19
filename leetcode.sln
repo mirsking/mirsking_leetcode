@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy66_plus_one", "easy66_plus_one\easy66_plus_one.vcxproj", "{8767244A-BF25-4EAE-BBE0-7EC5094F6275}"
 EndProject
@@ -292,6 +292,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy242_valid_anagram", "easy242_valid_anagram\easy242_valid_anagram.vcxproj", "{2A3999C1-2F8C-4E96-957C-27EC1A3C2C8A}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy_257_binary_trees_path", "easy_257_binary_trees_path\easy_257_binary_trees_path.vcxproj", "{B5753711-79F7-4F2F-B559-74CDB644F48B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy258_add_digits", "easy258_add_digits\easy258_add_digits.vcxproj", "{6C62FE3D-27B0-4BEB-8CD0-57A0E4E4AF9E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1752,6 +1754,16 @@ Global
 		{B5753711-79F7-4F2F-B559-74CDB644F48B}.Release|Win32.Build.0 = Release|Win32
 		{B5753711-79F7-4F2F-B559-74CDB644F48B}.SingleImage|Win32.ActiveCfg = Release|Win32
 		{B5753711-79F7-4F2F-B559-74CDB644F48B}.SingleImage|Win32.Build.0 = Release|Win32
+		{6C62FE3D-27B0-4BEB-8CD0-57A0E4E4AF9E}.CD_ROM|Win32.ActiveCfg = Release|Win32
+		{6C62FE3D-27B0-4BEB-8CD0-57A0E4E4AF9E}.CD_ROM|Win32.Build.0 = Release|Win32
+		{6C62FE3D-27B0-4BEB-8CD0-57A0E4E4AF9E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6C62FE3D-27B0-4BEB-8CD0-57A0E4E4AF9E}.Debug|Win32.Build.0 = Debug|Win32
+		{6C62FE3D-27B0-4BEB-8CD0-57A0E4E4AF9E}.DVD-5|Win32.ActiveCfg = Debug|Win32
+		{6C62FE3D-27B0-4BEB-8CD0-57A0E4E4AF9E}.DVD-5|Win32.Build.0 = Debug|Win32
+		{6C62FE3D-27B0-4BEB-8CD0-57A0E4E4AF9E}.Release|Win32.ActiveCfg = Release|Win32
+		{6C62FE3D-27B0-4BEB-8CD0-57A0E4E4AF9E}.Release|Win32.Build.0 = Release|Win32
+		{6C62FE3D-27B0-4BEB-8CD0-57A0E4E4AF9E}.SingleImage|Win32.ActiveCfg = Release|Win32
+		{6C62FE3D-27B0-4BEB-8CD0-57A0E4E4AF9E}.SingleImage|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
