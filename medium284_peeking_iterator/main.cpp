@@ -16,7 +16,6 @@ public:
 	bool hasNext() const;
 };
 
-#define ErrorNum -1
 class PeekingIterator : public Iterator {
 public:
 	PeekingIterator(const vector<int>& nums) : Iterator(nums) {

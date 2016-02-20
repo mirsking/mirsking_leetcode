@@ -11,9 +11,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{22541A7D-4EB1-4318-9F92-4DD168941DC3}</ProjectGuid>
+    <ProjectGuid>{EF3908AB-07F8-47B2-904F-62EDDE99F8B6}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>medium284_peeking_iterator</RootNamespace>
+    <RootNamespace>medium289_game_of_life</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
