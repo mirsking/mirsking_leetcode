@@ -323,6 +323,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy292_nim_game", "easy292
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium297_serialize_and_deserialize_binary_tree", "medium297_serialize_and_deserialize_binary_tree\medium297_serialize_and_deserialize_binary_tree.vcxproj", "{6A33B832-0898-4017-B607-6A254F861659}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy299_bulls_and_cows", "easy299_bulls_and_cows\easy299_bulls_and_cows.vcxproj", "{BFF08880-0888-40CB-9D1A-10624E6E65E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		CD_ROM|Win32 = CD_ROM|Win32
@@ -1932,6 +1934,16 @@ Global
 		{6A33B832-0898-4017-B607-6A254F861659}.Release|Win32.Build.0 = Release|Win32
 		{6A33B832-0898-4017-B607-6A254F861659}.SingleImage|Win32.ActiveCfg = Release|Win32
 		{6A33B832-0898-4017-B607-6A254F861659}.SingleImage|Win32.Build.0 = Release|Win32
+		{BFF08880-0888-40CB-9D1A-10624E6E65E5}.CD_ROM|Win32.ActiveCfg = Release|Win32
+		{BFF08880-0888-40CB-9D1A-10624E6E65E5}.CD_ROM|Win32.Build.0 = Release|Win32
+		{BFF08880-0888-40CB-9D1A-10624E6E65E5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BFF08880-0888-40CB-9D1A-10624E6E65E5}.Debug|Win32.Build.0 = Debug|Win32
+		{BFF08880-0888-40CB-9D1A-10624E6E65E5}.DVD-5|Win32.ActiveCfg = Debug|Win32
+		{BFF08880-0888-40CB-9D1A-10624E6E65E5}.DVD-5|Win32.Build.0 = Debug|Win32
+		{BFF08880-0888-40CB-9D1A-10624E6E65E5}.Release|Win32.ActiveCfg = Release|Win32
+		{BFF08880-0888-40CB-9D1A-10624E6E65E5}.Release|Win32.Build.0 = Release|Win32
+		{BFF08880-0888-40CB-9D1A-10624E6E65E5}.SingleImage|Win32.ActiveCfg = Release|Win32
+		{BFF08880-0888-40CB-9D1A-10624E6E65E5}.SingleImage|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

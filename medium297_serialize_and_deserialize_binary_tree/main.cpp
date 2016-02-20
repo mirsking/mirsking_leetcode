@@ -25,7 +25,7 @@ public:
 			if (res_vec[i] != "")
 				res += res_vec[i];
 			else
-				res += "null";
+				res += "n";
 			if (i + 1 != res_vec.size())
 				res += " ";
 		}
@@ -52,7 +52,7 @@ private:
 	}
 	TreeNode* deserialize(vector<string>& nodes, int id)
 	{
-		if (id >= nodes.size() || nodes[id] == "null")
+		if (id >= nodes.size() || nodes[id] == "n")
 			return NULL;
 
 		int val = stoi(nodes[id]);
