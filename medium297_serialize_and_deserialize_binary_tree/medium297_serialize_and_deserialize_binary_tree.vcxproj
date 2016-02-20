@@ -11,9 +11,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{389CF4E3-B0CB-4767-9082-9E274952BD9A}</ProjectGuid>
+    <ProjectGuid>{6A33B832-0898-4017-B607-6A254F861659}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>easy292_nim_game</RootNamespace>
+    <RootNamespace>medium297_serialize_and_deserialize_binary_tree</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
