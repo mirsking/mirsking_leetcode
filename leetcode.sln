@@ -325,6 +325,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium297_serialize_and_des
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy299_bulls_and_cows", "easy299_bulls_and_cows\easy299_bulls_and_cows.vcxproj", "{BFF08880-0888-40CB-9D1A-10624E6E65E5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy303_range_sum_query_immutable", "easy303_range_sum_query_immutable\easy303_range_sum_query_immutable.vcxproj", "{DCA6CD94-870E-4D7D-B406-3ABDCA7DB894}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium304_range_sum_query_2d", "medium304_range_sum_query_2d\medium304_range_sum_query_2d.vcxproj", "{3D1DE8F2-D301-43E7-86A8-4635AE41E2C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		CD_ROM|Win32 = CD_ROM|Win32
@@ -1944,6 +1948,26 @@ Global
 		{BFF08880-0888-40CB-9D1A-10624E6E65E5}.Release|Win32.Build.0 = Release|Win32
 		{BFF08880-0888-40CB-9D1A-10624E6E65E5}.SingleImage|Win32.ActiveCfg = Release|Win32
 		{BFF08880-0888-40CB-9D1A-10624E6E65E5}.SingleImage|Win32.Build.0 = Release|Win32
+		{DCA6CD94-870E-4D7D-B406-3ABDCA7DB894}.CD_ROM|Win32.ActiveCfg = Release|Win32
+		{DCA6CD94-870E-4D7D-B406-3ABDCA7DB894}.CD_ROM|Win32.Build.0 = Release|Win32
+		{DCA6CD94-870E-4D7D-B406-3ABDCA7DB894}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DCA6CD94-870E-4D7D-B406-3ABDCA7DB894}.Debug|Win32.Build.0 = Debug|Win32
+		{DCA6CD94-870E-4D7D-B406-3ABDCA7DB894}.DVD-5|Win32.ActiveCfg = Debug|Win32
+		{DCA6CD94-870E-4D7D-B406-3ABDCA7DB894}.DVD-5|Win32.Build.0 = Debug|Win32
+		{DCA6CD94-870E-4D7D-B406-3ABDCA7DB894}.Release|Win32.ActiveCfg = Release|Win32
+		{DCA6CD94-870E-4D7D-B406-3ABDCA7DB894}.Release|Win32.Build.0 = Release|Win32
+		{DCA6CD94-870E-4D7D-B406-3ABDCA7DB894}.SingleImage|Win32.ActiveCfg = Release|Win32
+		{DCA6CD94-870E-4D7D-B406-3ABDCA7DB894}.SingleImage|Win32.Build.0 = Release|Win32
+		{3D1DE8F2-D301-43E7-86A8-4635AE41E2C2}.CD_ROM|Win32.ActiveCfg = Release|Win32
+		{3D1DE8F2-D301-43E7-86A8-4635AE41E2C2}.CD_ROM|Win32.Build.0 = Release|Win32
+		{3D1DE8F2-D301-43E7-86A8-4635AE41E2C2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3D1DE8F2-D301-43E7-86A8-4635AE41E2C2}.Debug|Win32.Build.0 = Debug|Win32
+		{3D1DE8F2-D301-43E7-86A8-4635AE41E2C2}.DVD-5|Win32.ActiveCfg = Debug|Win32
+		{3D1DE8F2-D301-43E7-86A8-4635AE41E2C2}.DVD-5|Win32.Build.0 = Debug|Win32
+		{3D1DE8F2-D301-43E7-86A8-4635AE41E2C2}.Release|Win32.ActiveCfg = Release|Win32
+		{3D1DE8F2-D301-43E7-86A8-4635AE41E2C2}.Release|Win32.Build.0 = Release|Win32
+		{3D1DE8F2-D301-43E7-86A8-4635AE41E2C2}.SingleImage|Win32.ActiveCfg = Release|Win32
+		{3D1DE8F2-D301-43E7-86A8-4635AE41E2C2}.SingleImage|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
