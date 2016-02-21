@@ -347,6 +347,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium322_coin_change", "me
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy326_power_of_three", "easy326_power_of_three\easy326_power_of_three.vcxproj", "{3B769F4D-6C07-468B-AF42-F28596960C62}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy328_odd_even_linked_list", "easy328_odd_even_linked_list\easy328_odd_even_linked_list.vcxproj", "{DC6FD35A-BFDB-4DBC-A478-8DC0BA8210B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		CD_ROM|Win32 = CD_ROM|Win32
@@ -2076,6 +2078,16 @@ Global
 		{3B769F4D-6C07-468B-AF42-F28596960C62}.Release|Win32.Build.0 = Release|Win32
 		{3B769F4D-6C07-468B-AF42-F28596960C62}.SingleImage|Win32.ActiveCfg = Release|Win32
 		{3B769F4D-6C07-468B-AF42-F28596960C62}.SingleImage|Win32.Build.0 = Release|Win32
+		{DC6FD35A-BFDB-4DBC-A478-8DC0BA8210B0}.CD_ROM|Win32.ActiveCfg = Release|Win32
+		{DC6FD35A-BFDB-4DBC-A478-8DC0BA8210B0}.CD_ROM|Win32.Build.0 = Release|Win32
+		{DC6FD35A-BFDB-4DBC-A478-8DC0BA8210B0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DC6FD35A-BFDB-4DBC-A478-8DC0BA8210B0}.Debug|Win32.Build.0 = Debug|Win32
+		{DC6FD35A-BFDB-4DBC-A478-8DC0BA8210B0}.DVD-5|Win32.ActiveCfg = Debug|Win32
+		{DC6FD35A-BFDB-4DBC-A478-8DC0BA8210B0}.DVD-5|Win32.Build.0 = Debug|Win32
+		{DC6FD35A-BFDB-4DBC-A478-8DC0BA8210B0}.Release|Win32.ActiveCfg = Release|Win32
+		{DC6FD35A-BFDB-4DBC-A478-8DC0BA8210B0}.Release|Win32.Build.0 = Release|Win32
+		{DC6FD35A-BFDB-4DBC-A478-8DC0BA8210B0}.SingleImage|Win32.ActiveCfg = Release|Win32
+		{DC6FD35A-BFDB-4DBC-A478-8DC0BA8210B0}.SingleImage|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
