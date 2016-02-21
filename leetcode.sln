@@ -339,6 +339,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium310_minimum_height_tr
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium313_super_ugly_number", "medium313_super_ugly_number\medium313_super_ugly_number.vcxproj", "{BD65EA55-B6FE-4E51-9DB1-80BF9C2EF533}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium316_remove_duplicate_letters", "medium316_remove_duplicate_letters\medium316_remove_duplicate_letters.vcxproj", "{6DC1EBAA-2093-4C40-8A93-BF71902A48CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		CD_ROM|Win32 = CD_ROM|Win32
@@ -2028,6 +2030,16 @@ Global
 		{BD65EA55-B6FE-4E51-9DB1-80BF9C2EF533}.Release|Win32.Build.0 = Release|Win32
 		{BD65EA55-B6FE-4E51-9DB1-80BF9C2EF533}.SingleImage|Win32.ActiveCfg = Release|Win32
 		{BD65EA55-B6FE-4E51-9DB1-80BF9C2EF533}.SingleImage|Win32.Build.0 = Release|Win32
+		{6DC1EBAA-2093-4C40-8A93-BF71902A48CE}.CD_ROM|Win32.ActiveCfg = Release|Win32
+		{6DC1EBAA-2093-4C40-8A93-BF71902A48CE}.CD_ROM|Win32.Build.0 = Release|Win32
+		{6DC1EBAA-2093-4C40-8A93-BF71902A48CE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6DC1EBAA-2093-4C40-8A93-BF71902A48CE}.Debug|Win32.Build.0 = Debug|Win32
+		{6DC1EBAA-2093-4C40-8A93-BF71902A48CE}.DVD-5|Win32.ActiveCfg = Debug|Win32
+		{6DC1EBAA-2093-4C40-8A93-BF71902A48CE}.DVD-5|Win32.Build.0 = Debug|Win32
+		{6DC1EBAA-2093-4C40-8A93-BF71902A48CE}.Release|Win32.ActiveCfg = Release|Win32
+		{6DC1EBAA-2093-4C40-8A93-BF71902A48CE}.Release|Win32.Build.0 = Release|Win32
+		{6DC1EBAA-2093-4C40-8A93-BF71902A48CE}.SingleImage|Win32.ActiveCfg = Release|Win32
+		{6DC1EBAA-2093-4C40-8A93-BF71902A48CE}.SingleImage|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
