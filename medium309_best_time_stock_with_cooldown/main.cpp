@@ -4,6 +4,7 @@
 #include <climits>
 using namespace std;
 
+//http://www.cnblogs.com/grandyang/p/4997417.html
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
