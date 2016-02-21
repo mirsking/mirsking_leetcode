@@ -11,9 +11,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{CEA5490E-34B5-4D3E-964E-5FCBA6337614}</ProjectGuid>
+    <ProjectGuid>{75B1562E-9B35-4D4C-AF03-F756C582C633}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>medium309_best_time_stock_with_cooldown</RootNamespace>
+    <RootNamespace>medium310_minimum_height_trees</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
