@@ -337,6 +337,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium309_best_time_stock_w
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium310_minimum_height_trees", "medium310_minimum_height_trees\medium310_minimum_height_trees.vcxproj", "{75B1562E-9B35-4D4C-AF03-F756C582C633}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium313_super_ugly_number", "medium313_super_ugly_number\medium313_super_ugly_number.vcxproj", "{BD65EA55-B6FE-4E51-9DB1-80BF9C2EF533}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		CD_ROM|Win32 = CD_ROM|Win32
@@ -2016,6 +2018,16 @@ Global
 		{75B1562E-9B35-4D4C-AF03-F756C582C633}.Release|Win32.Build.0 = Release|Win32
 		{75B1562E-9B35-4D4C-AF03-F756C582C633}.SingleImage|Win32.ActiveCfg = Release|Win32
 		{75B1562E-9B35-4D4C-AF03-F756C582C633}.SingleImage|Win32.Build.0 = Release|Win32
+		{BD65EA55-B6FE-4E51-9DB1-80BF9C2EF533}.CD_ROM|Win32.ActiveCfg = Release|Win32
+		{BD65EA55-B6FE-4E51-9DB1-80BF9C2EF533}.CD_ROM|Win32.Build.0 = Release|Win32
+		{BD65EA55-B6FE-4E51-9DB1-80BF9C2EF533}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BD65EA55-B6FE-4E51-9DB1-80BF9C2EF533}.Debug|Win32.Build.0 = Debug|Win32
+		{BD65EA55-B6FE-4E51-9DB1-80BF9C2EF533}.DVD-5|Win32.ActiveCfg = Debug|Win32
+		{BD65EA55-B6FE-4E51-9DB1-80BF9C2EF533}.DVD-5|Win32.Build.0 = Debug|Win32
+		{BD65EA55-B6FE-4E51-9DB1-80BF9C2EF533}.Release|Win32.ActiveCfg = Release|Win32
+		{BD65EA55-B6FE-4E51-9DB1-80BF9C2EF533}.Release|Win32.Build.0 = Release|Win32
+		{BD65EA55-B6FE-4E51-9DB1-80BF9C2EF533}.SingleImage|Win32.ActiveCfg = Release|Win32
+		{BD65EA55-B6FE-4E51-9DB1-80BF9C2EF533}.SingleImage|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
