@@ -345,6 +345,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium318_maximum_product_o
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium322_coin_change", "medium322_coin_change\medium322_coin_change.vcxproj", "{F880317F-1B18-4384-9109-3F59958628BD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy326_power_of_three", "easy326_power_of_three\easy326_power_of_three.vcxproj", "{3B769F4D-6C07-468B-AF42-F28596960C62}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		CD_ROM|Win32 = CD_ROM|Win32
@@ -2064,6 +2066,16 @@ Global
 		{F880317F-1B18-4384-9109-3F59958628BD}.Release|Win32.Build.0 = Release|Win32
 		{F880317F-1B18-4384-9109-3F59958628BD}.SingleImage|Win32.ActiveCfg = Release|Win32
 		{F880317F-1B18-4384-9109-3F59958628BD}.SingleImage|Win32.Build.0 = Release|Win32
+		{3B769F4D-6C07-468B-AF42-F28596960C62}.CD_ROM|Win32.ActiveCfg = Release|Win32
+		{3B769F4D-6C07-468B-AF42-F28596960C62}.CD_ROM|Win32.Build.0 = Release|Win32
+		{3B769F4D-6C07-468B-AF42-F28596960C62}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3B769F4D-6C07-468B-AF42-F28596960C62}.Debug|Win32.Build.0 = Debug|Win32
+		{3B769F4D-6C07-468B-AF42-F28596960C62}.DVD-5|Win32.ActiveCfg = Debug|Win32
+		{3B769F4D-6C07-468B-AF42-F28596960C62}.DVD-5|Win32.Build.0 = Debug|Win32
+		{3B769F4D-6C07-468B-AF42-F28596960C62}.Release|Win32.ActiveCfg = Release|Win32
+		{3B769F4D-6C07-468B-AF42-F28596960C62}.Release|Win32.Build.0 = Release|Win32
+		{3B769F4D-6C07-468B-AF42-F28596960C62}.SingleImage|Win32.ActiveCfg = Release|Win32
+		{3B769F4D-6C07-468B-AF42-F28596960C62}.SingleImage|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
