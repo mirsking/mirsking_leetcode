@@ -367,6 +367,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium241_different_ways_to
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy342_power_of_four", "easy342_power_of_four\easy342_power_of_four.vcxproj", "{187CF143-50DD-458B-A359-04D2BD07E708}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "medium338_counting_bits", "medium338_counting_bits\medium338_counting_bits.vcxproj", "{DAD280C0-DE0F-450E-A17B-9CDC28A24289}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		CD_ROM|Win32 = CD_ROM|Win32
@@ -3659,6 +3661,26 @@ Global
 		{187CF143-50DD-458B-A359-04D2BD07E708}.SingleImage|Win32.Build.0 = Release|Win32
 		{187CF143-50DD-458B-A359-04D2BD07E708}.SingleImage|x64.ActiveCfg = Release|x64
 		{187CF143-50DD-458B-A359-04D2BD07E708}.SingleImage|x64.Build.0 = Release|x64
+		{DAD280C0-DE0F-450E-A17B-9CDC28A24289}.CD_ROM|Win32.ActiveCfg = Release|Win32
+		{DAD280C0-DE0F-450E-A17B-9CDC28A24289}.CD_ROM|Win32.Build.0 = Release|Win32
+		{DAD280C0-DE0F-450E-A17B-9CDC28A24289}.CD_ROM|x64.ActiveCfg = Release|x64
+		{DAD280C0-DE0F-450E-A17B-9CDC28A24289}.CD_ROM|x64.Build.0 = Release|x64
+		{DAD280C0-DE0F-450E-A17B-9CDC28A24289}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DAD280C0-DE0F-450E-A17B-9CDC28A24289}.Debug|Win32.Build.0 = Debug|Win32
+		{DAD280C0-DE0F-450E-A17B-9CDC28A24289}.Debug|x64.ActiveCfg = Debug|x64
+		{DAD280C0-DE0F-450E-A17B-9CDC28A24289}.Debug|x64.Build.0 = Debug|x64
+		{DAD280C0-DE0F-450E-A17B-9CDC28A24289}.DVD-5|Win32.ActiveCfg = Debug|Win32
+		{DAD280C0-DE0F-450E-A17B-9CDC28A24289}.DVD-5|Win32.Build.0 = Debug|Win32
+		{DAD280C0-DE0F-450E-A17B-9CDC28A24289}.DVD-5|x64.ActiveCfg = Debug|x64
+		{DAD280C0-DE0F-450E-A17B-9CDC28A24289}.DVD-5|x64.Build.0 = Debug|x64
+		{DAD280C0-DE0F-450E-A17B-9CDC28A24289}.Release|Win32.ActiveCfg = Release|Win32
+		{DAD280C0-DE0F-450E-A17B-9CDC28A24289}.Release|Win32.Build.0 = Release|Win32
+		{DAD280C0-DE0F-450E-A17B-9CDC28A24289}.Release|x64.ActiveCfg = Release|x64
+		{DAD280C0-DE0F-450E-A17B-9CDC28A24289}.Release|x64.Build.0 = Release|x64
+		{DAD280C0-DE0F-450E-A17B-9CDC28A24289}.SingleImage|Win32.ActiveCfg = Release|Win32
+		{DAD280C0-DE0F-450E-A17B-9CDC28A24289}.SingleImage|Win32.Build.0 = Release|Win32
+		{DAD280C0-DE0F-450E-A17B-9CDC28A24289}.SingleImage|x64.ActiveCfg = Release|x64
+		{DAD280C0-DE0F-450E-A17B-9CDC28A24289}.SingleImage|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
